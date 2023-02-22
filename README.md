@@ -25,8 +25,8 @@ Je suis en constante recherche de nouvelle chose a apprendre et a découvir.
 
 ### Outils
 
-![Ws10](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=windows&logoColor=0078D6&color=0078D6)
-![Ws11](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=windows&logoColor=0078D6&color=0078D6)
+![Ws10](https://img.shields.io/badge/OS-Window10-informational?style=flat&logo=windows&logoColor=0078D6&color=0078D6)
+![Ws11](https://img.shields.io/badge/OS-Window11-informational?style=flat&logo=windows&logoColor=0078D6&color=0078D6)
 ![Ios](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=3ddc84&color=3ddc84)
 ![Windows Terminal](https://img.shields.io/badge/Shell-Windows_Terminal-informational?style=flat&logo=windowsterminal&logoColor=313131&color=313131)
 ![PowerShell](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=5391fe&color=5391fe)
