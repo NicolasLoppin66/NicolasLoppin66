@@ -40,9 +40,10 @@ Je suis en constante recherche de nouvelle chose a apprendre et a découvir.
 
 ### Language
 
-![Html](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=E34F26&color=E34F26)
-![Css](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=1572B6&color=1572B6)
+![Html](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=E34F26&color=E34F26)
+![Css](https://img.shields.io/badge/Code-CSS_3-informational?style=flat&logo=css3&logoColor=1572B6&color=1572B6)
 ![Js](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)
+![Php](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=2151A1&color=2151A1)
 ![Sass/Scss](https://img.shields.io/badge/Code-SASS/SCSS-informational?style=flat&logo=sass&logoColor=bc2b80&color=bc2b80)
 ![Markdown](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=000000&color=000000)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=3776ab&color=3776ab)
@@ -56,6 +57,7 @@ Je suis en constante recherche de nouvelle chose a apprendre et a découvir.
 ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=61dafb&color=61dafb)
 ![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=000000&color=000000)
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=02569b&color=02569b)
+![Symfony](https://img.shields.io/badge/Framework-Symfony-informational?style=flat&logo=symfony&logoColor=000000&color=000000)
 
 ---
 
