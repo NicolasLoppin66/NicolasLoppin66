@@ -16,7 +16,8 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 [![Gmail](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335 "Mail professionnelle")](mailto:loppin.n66@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2 "Nicolas LOPPIN")](https://www.linkedin.com/in/nicolasloppin/)
-[![Github](https://img.shields.io/badge/Github-informational?style=for-the-badge&logo=github&logoColor=white&color=181717 "NicolasLoppin66")](https://github.com/TrinoxGFX)
+[![Github](https://img.shields.io/badge/Github-informational?style=for-the-badge&logo=github&logoColor=white&color=181717 "NicolasLoppin66")](https://github.com/NicolasLoppin66)
+[![Gitlab](https://img.shields.io/badge/GitLab-informational?style=for-the-badge&logo=gitlab&logoColor=white&color=FC6D26 "NicolasLoppin66")](https://gitlab.com/NicolasL66)
 ![Discord](https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=5865f2 "TrinoxGFX#9081")
 
 |                                                 📈 Statistiques Github                                                  |                                                                                                                                       |
