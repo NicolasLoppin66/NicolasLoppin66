@@ -62,16 +62,16 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ---
 
-| Language  |                                                                                                                              |
-| :-------: | :--------------------------------------------------------------------------------------------------------------------------- |
-| Front-End | ![Html](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=E34F26&color=E34F26)          |
-| Front-End | ![Css](https://img.shields.io/badge/Code-CSS_3-informational?style=flat&logo=css3&logoColor=1572B6&color=1572B6)             |
-| Front-End | ![Js](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)   |
-| Front-End | ![Sass/Scss](https://img.shields.io/badge/Code-SASS/SCSS-informational?style=flat&logo=sass&logoColor=bc2b80&color=bc2b80)   |
-| Back-End  | ![Php](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=2151A1&color=2151A1)                |
-| DataBase  | ![MySQL](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=4479A1&color=4479A1)          |
-|           | ![Markdown](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=000000&color=000000) |
-|           | ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=3776ab&color=3776ab)       |
+|  Language  |                                                                                                                              |
+| :--------: | :--------------------------------------------------------------------------------------------------------------------------- |
+| Front-End  | ![Html](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=E34F26&color=E34F26)          |
+| Front-End  | ![Css](https://img.shields.io/badge/Code-CSS_3-informational?style=flat&logo=css3&logoColor=1572B6&color=1572B6)             |
+| Front-End  | ![Js](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)   |
+| Front-End  | ![Sass/Scss](https://img.shields.io/badge/Code-SASS/SCSS-informational?style=flat&logo=sass&logoColor=bc2b80&color=bc2b80)   |
+|  Back-End  | ![Php](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=2151A1&color=2151A1)                |
+|  DataBase  | ![MySQL](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=4479A1&color=4479A1)          |
+|  Back-End  | ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=3776ab&color=3776ab)       |
+| structural | ![Markdown](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=000000&color=000000) |
 
 ---
 
