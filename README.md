@@ -29,8 +29,8 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ---
 
-| ### Outils ||
-
+| ### Outils |---|
+|:----:|:----:|
 | ## OS ||
 
 ||![Ws11](https://img.shields.io/badge/OS-Window_11-informational?style=flat&logo=windows&logoColor=0078D6&color=0078D6)|
