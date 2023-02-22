@@ -1,6 +1,6 @@
 # Bienvenue sur mon Profils
 
-Je m'appel Nicolas LOPPIN, j'ai 22 ans et je me forme au développeur web. 
+Je m'appel Nicolas LOPPIN, j'ai 22 ans et je me forme au développeur web.
 Je suis motivé, déterminé, et passionné par mon métier !
 Je suis en constante recherche de nouvelle chose a apprendre et a découvir.
 
@@ -10,19 +10,18 @@ A l'Idem Creative Art School au Le Soler à Perpignan
 
 Le partage et la transmission sont pour moi deux choses essentielles dans l'approche des différent métier qui peut me faire apprendre, c'est pourquoi, toujours dans le partage.
 
-
 <h2> 👋 Hi there 👋 </h2>
 
 ---
 
 [![Gmail](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335 "Mail professionnelle")](mailto:loppin.n66@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2 "Nico - Corp")](https://www.linkedin.com/in/nicolasloppin/)
-[![Github](https://img.shields.io/badge/Github-informational?style=for-the-badge&logo=github&logoColor=white&color=181717 "TrinoxGFX")](https://github.com/TrinoxGFX)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2 "Nicolas LOPPIN")](https://www.linkedin.com/in/nicolasloppin/)
+[![Github](https://img.shields.io/badge/Github-informational?style=for-the-badge&logo=github&logoColor=white&color=181717 "NicolasLoppin66")](https://github.com/TrinoxGFX)
 ![Discord](https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=5865f2 "TrinoxGFX#9081")
 
-| 📈 Statistiques Github |   |
-|:---:|:---:|
-| ![](https://github-readme-stats.vercel.app/api?username=NicolasLoppin66&show_icons=true&theme=react&count_private=true)  | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLoppin66&theme=react&hide_langs_below=8&count_private=true)  |
+|                                                 📈 Statistiques Github                                                  |                                                                                                                                       |
+| :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+| ![](https://github-readme-stats.vercel.app/api?username=NicolasLoppin66&show_icons=true&theme=react&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLoppin66&theme=react&hide_langs_below=8&count_private=true) |
 
   <h1>👉 Compétences</h1>
 
@@ -67,24 +66,25 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=02569b&color=02569b)
 ![Symfony](https://img.shields.io/badge/Framework-Symfony-informational?style=flat&logo=symfony&logoColor=000000&color=000000)
 
---- 
-
-### LANGUES
-
-  🇫🇷 🇬🇧 🇯🇵
-
 ---
 
 ### LOISIRS
 
-  ![Learning](https://img.shields.io/badge/Passion-Learning-informational?style=for-the-badge&logo=learning&logoColor=000000&color=ff0000)
-  ![Coding](https://img.shields.io/badge/Passion-Coding-informational?style=for-the-badge&logo=coding&logoColor=000000&color=ff7f00)
-  ![American_Football](https://img.shields.io/badge/Passion-American_Football-informational?style=for-the-badge&logo=american_football&logoColor=000000&color=FFFF00)
-  ![Gaming](https://img.shields.io/badge/Passion-Gaming-informational?style=for-the-badge&logo=gaming&logoColor=000000&color=00ff00)
+![Learning](https://img.shields.io/badge/Passion-Learning-informational?style=for-the-badge&logo=learning&logoColor=000000&color=ff0000)
+![Coding](https://img.shields.io/badge/Passion-Coding-informational?style=for-the-badge&logo=coding&logoColor=000000&color=ff7f00)
+![American_Football](https://img.shields.io/badge/Passion-American_Football-informational?style=for-the-badge&logo=american_football&logoColor=000000&color=FFFF00)
+![Gaming](https://img.shields.io/badge/Passion-Gaming-informational?style=for-the-badge&logo=gaming&logoColor=000000&color=00ff00)
 
-  ---
+---
 
-  ![Minecraft](https://img.shields.io/badge/Game-Minecraft-informational?style=for-the-badge&logo=minecraft&logoColor=62b47a&color=62b47a)
-  ![CS:GO](https://img.shields.io/badge/Game-Counter_Strike-informational?style=for-the-badge&logo=counter-strike&logoColor=000000&color=000000)
-  ![Riot Game](https://img.shields.io/badge/Game-Riot_Games-informational?style=for-the-badge&logo=riot-games&logoColor=D32936&color=D32936)
+![Minecraft](https://img.shields.io/badge/Game-Minecraft-informational?style=for-the-badge&logo=minecraft&logoColor=62b47a&color=62b47a)
+![CS:GO](https://img.shields.io/badge/Game-Counter_Strike-informational?style=for-the-badge&logo=counter-strike&logoColor=000000&color=000000)
+![Riot Game](https://img.shields.io/badge/Game-Riot_Games-informational?style=for-the-badge&logo=riot-games&logoColor=D32936&color=D32936)
+
+---
+
+### LANGUES
+
+🇫🇷 🇬🇧 🇯🇵
+
 </details>
