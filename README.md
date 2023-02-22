@@ -69,6 +69,12 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ---
 
+### CMS
+
+![WordPress](https://img.shields.io/badge/Framework-WordPress-informational?style=flat&logo=wordpress&logoColor=21759B&color=21759B)
+
+---
+
 ### LOISIRS
 
 ![Learning](https://img.shields.io/badge/Passion-Learning-informational?style=for-the-badge&logo=learning&logoColor=000000&color=ff0000)
