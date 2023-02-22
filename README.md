@@ -13,12 +13,6 @@ Je suis en constante recherche de nouvelle chose a apprendre et a découvir.
 [![Github](https://img.shields.io/badge/Github-informational?style=for-the-badge&logo=github&logoColor=white&color=181717 "TrinoxGFX")](https://github.com/TrinoxGFX)
 ![Discord](https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=5865f2 "TrinoxGFX#9081")
 
-[![Youtube](https://img.shields.io/badge/Youtube-informational?style=for-the-badge&logo=youtube&logoColor=white&color=ff0000 "Nico - Corp")](<https://www.youtube.com/channel/UCpDhWUvg1fQnROJ4YHwyGVg>)
-![Youtube-Subcribers](https://img.shields.io/youtube/channel/subscribers/UCpDhWUvg1fQnROJ4YHwyGVg?color=ff0000&logo=youtube&logoColor=ff0000&style=for-the-badge)
-
-[![Twitter](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1da1f2&url=https%3A%2F%2Ftwitter.com%2Fnico_corp "Nico - Corp")](<https://twitter.com/nico_corp>)
-![Twitter-Followers](https://img.shields.io/twitter/follow/nico_corp?color=1da1f2&logo=twitter&logoColor=1da1f2&style=for-the-badge)
-
 | 📈 Statistiques Github |   |
 |:---:|:---:|
 | ![](https://github-readme-stats.vercel.app/api?username=NicolasLoppin66&show_icons=true&theme=react&count_private=true)  | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLoppin66&theme=react&hide_langs_below=8&count_private=true)  |
@@ -39,6 +33,7 @@ Je suis en constante recherche de nouvelle chose a apprendre et a découvir.
 ![Git Bash](https://img.shields.io/badge/Shell-Git-informational?style=flat&logo=git&logoColor=f05032&color=f05032)
 ![VSC](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=007acc&color=007acc)
 ![Ij IDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=000000&color=000000)
+![PhpStorm](https://img.shields.io/badge/IDE-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=000000&color=000000)
 ![NPM](https://img.shields.io/badge/Package_Manager-Npm-informational?style=flat&logo=npm&logoColor=cb3837&color=cb3837)
 
 ---
