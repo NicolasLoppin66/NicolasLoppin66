@@ -70,8 +70,8 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 | Env Developpement |                                                                                                                                        |
 | :---------------: | :------------------------------------------------------------------------------------------------------------------------------------- |
-|                   | ![Node.js](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=339933&color=339933)         |
-|                   | ![Laragon](https://img.shields.io/badge/Env_Developpement-Laragon-informational?style=flat&logo=laragon&logoColor=0E83CD&color=0E83CD) |
+|                   | ![Node.js](https://img.shields.io/badge/Env_Dev-Node.js-informational?style=flat&logo=node.js&logoColor=339933&color=339933)         |
+|                   | ![Laragon](https://img.shields.io/badge/Env_Dev-Laragon-informational?style=flat&logo=laragon&logoColor=0E83CD&color=0E83CD) |
 
 ---
 
