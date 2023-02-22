@@ -25,7 +25,8 @@ Je suis en constante recherche de nouvelle chose a apprendre et a découvir.
 
 ### Outils
 
-![Ws10](https://img.shields.io/badge/OS-Window_10-informational?style=flat&logo=windows&logoColor=0078D6&color=0078D6)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=FCC624&color=FCC624)
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=E95420&color=E95420)
 ![Ws11](https://img.shields.io/badge/OS-Window_11-informational?style=flat&logo=windows&logoColor=0078D6&color=0078D6)
 ![Ios](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=3ddc84&color=3ddc84)
 ![Windows Terminal](https://img.shields.io/badge/Shell-Windows_Terminal-informational?style=flat&logo=windowsterminal&logoColor=313131&color=313131)
@@ -61,7 +62,9 @@ Je suis en constante recherche de nouvelle chose a apprendre et a découvir.
 
 ---
 
-Actuellement je suis Développeur web.
+Actuellement en formation en tant que développeur Web et Web mobile.
+
+A l'Idem Creative Art School au Le Soler à Perpignan
 
 Le partage et la transmission sont pour moi deux choses essentielles dans l'approche des différent métier qui peut me faire apprendre, c'est pourquoi, toujours dans le partage.
 
@@ -82,14 +85,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
   ---
 
-  ![Steam](https://img.shields.io/badge/Gaming_Platform-Steam-informational?style=for-the-badge&logo=steam&logoColor=000000&color=000000)
-  ![Épic Games](https://img.shields.io/badge/Gaming_Platform-Epic_Games-informational?style=for-the-badge&logo=epicgames&logoColor=313131&color=313131)
-  ![Riot Games](https://img.shields.io/badge/Gaming_Platform-Riot_Games-informational?style=for-the-badge&logo=riotgames&logoColor=d32936&color=d32936)
-  ![Ubisoft](https://img.shields.io/badge/Gaming_Platform-Ubisoft-informational?style=for-the-badge&logo=ubisoft&logoColor=000000&color=000000)
-  ![Battle.net](https://img.shields.io/badge/Gaming_Platform-Battle.net-informational?style=for-the-badge&logo=battle.net&logoColor=148eff&color=148eff)
-
-  ---
-
   ![Minecraft](https://img.shields.io/badge/Game-Minecraft-informational?style=for-the-badge&logo=minecraft&logoColor=62b47a&color=62b47a)
   ![CS:GO](https://img.shields.io/badge/Game-Counter_Strike-informational?style=for-the-badge&logo=counter-strike&logoColor=000000&color=000000)
+  ![Riot Game](https://img.shields.io/badge/Game-Riot_Games-informational?style=for-the-badge&logo=riot-games&logoColor=D32936&color=D32936)
 </details>
