@@ -96,6 +96,18 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ---
 
+| Container |                                                                                                                             |
+| :-------: | :-------------------------------------------------------------------------------------------------------------------------- |
+|           | ![Docker](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=2496ED&color=2496ED) |
+
+---
+
+| Env Developpement |                                                                                                                             |
+| :-------: | :-------------------------------------------------------------------------------------------------------------------------- |
+|           | ![Laragon](https://img.shields.io/badge/Env_Developpement-Laragon-informational?style=flat&logo=laragon&logoColor=0E83CD&color=0E83CD) |
+
+---
+
 ### LOISIRS
 
 ![Learning](https://img.shields.io/badge/Passion-Learning-informational?style=for-the-badge&logo=learning&logoColor=000000&color=ff0000)
