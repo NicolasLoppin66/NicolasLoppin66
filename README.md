@@ -44,21 +44,21 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 |       | ![PowerShell](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=5391fe&color=5391fe)                  |
 |       | ![Git Bash](https://img.shields.io/badge/Shell-Git_Bash-informational?style=flat&logo=git&logoColor=f05032&color=f05032)                             |
 
-| IDE |                                                                                                                                          |
-| :-: | :--------------------------------------------------------------------------------------------------------------------------------------- |
-|     | ![VS](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=5C2D91&color=5C2D91)           |
-|     | ![VSC](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=007acc&color=007acc) |
-|     | ![Ij IDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=000000&color=000000)      |
-|     | ![PhpStorm](https://img.shields.io/badge/IDE-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=000000&color=000000)              |
+|     IDE      |                                                                                                                                          |
+| :----------: | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| WEB, ANDROID | ![VS](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=5C2D91&color=5C2D91)           |
+|    MULTI     | ![VSC](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=007acc&color=007acc) |
+|     JAVA     | ![Ij IDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=000000&color=000000)      |
+|     PHP      | ![PhpStorm](https://img.shields.io/badge/IDE-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=000000&color=000000)              |
 
 | Package Manager |                                                                                                                             |
 | :-------------: | :-------------------------------------------------------------------------------------------------------------------------- |
 |                 | ![NPM](https://img.shields.io/badge/Package_Manager-Npm-informational?style=flat&logo=npm&logoColor=cb3837&color=cb3837)    |
 |                 | ![Yarn](https://img.shields.io/badge/Package_Manager-Yarn-informational?style=flat&logo=yarn&logoColor=2C8EBB&color=2C8EBB) |
 
-| UX / UI |                                                                                                                      |
-| :-----: | :------------------------------------------------------------------------------------------------------------------- |
-|         | ![Figma](https://img.shields.io/badge/UX/UI-Figma-informational?style=flat&logo=figma&logoColor=F24E1E&color=F24E1E) |
+| UX / UI  |                                                                                                                      |
+| :------: | :------------------------------------------------------------------------------------------------------------------- |
+| SoftWare | ![Figma](https://img.shields.io/badge/UX/UI-Figma-informational?style=flat&logo=figma&logoColor=F24E1E&color=F24E1E) |
 
 ---
 
@@ -73,7 +73,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 |  Back-End  | ![Php](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=2151A1&color=2151A1)                |
 |  Back-End  | ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=3776ab&color=3776ab)       |
 |  DataBase  | ![MySQL](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=4479A1&color=4479A1)          |
-|  DataBase  | ![MySQL](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=47A248&color=47A248)          |
+|  DataBase  | ![MySQL](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=47A248&color=47A248)      |
 | structural | ![Markdown](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=000000&color=000000) |
 
 ---
