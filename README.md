@@ -29,10 +29,10 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ---
 
-| ### Outils |                                                                                                                        |
-| :--------: | :--------------------------------------------------------------------------------------------------------------------: |
+### Outils
+
 |   ## OS    |                                                                                                                        |
-|            |                                                                                                                        |
+| :--------: | :--------------------------------------------------------------------------------------------------------------------: |
 |    ---     | ![Ws11](https://img.shields.io/badge/OS-Window_11-informational?style=flat&logo=windows&logoColor=0078D6&color=0078D6) |
 |    ---     |  ![Ios](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=3ddc84&color=3ddc84)   |
 |    ---     |   ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=FCC624&color=FCC624)    |
