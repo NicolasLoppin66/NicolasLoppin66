@@ -63,12 +63,12 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 | Language |                                                                                                                              |
 | :------: | :--------------------------------------------------------------------------------------------------------------------------: |
-|          |     ![Html](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=E34F26&color=E34F26)      |
-|          |       ![Css](https://img.shields.io/badge/Code-CSS_3-informational?style=flat&logo=css3&logoColor=1572B6&color=1572B6)       |
-|          |  ![Js](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)  |
+| FrontEnd |     ![Html](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=E34F26&color=E34F26)      |
+| FrontEnd |       ![Css](https://img.shields.io/badge/Code-CSS_3-informational?style=flat&logo=css3&logoColor=1572B6&color=1572B6)       |
+| FrontEnd |  ![Js](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)  |
 |          |        ![Php](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=2151A1&color=2151A1)         |
 |          |     ![MySQL](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=4479A1&color=4479A1)      |
-|          |  ![Sass/Scss](https://img.shields.io/badge/Code-SASS/SCSS-informational?style=flat&logo=sass&logoColor=bc2b80&color=bc2b80)  |
+| FrontEnd |  ![Sass/Scss](https://img.shields.io/badge/Code-SASS/SCSS-informational?style=flat&logo=sass&logoColor=bc2b80&color=bc2b80)  |
 |          | ![Markdown](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=000000&color=000000) |
 |          |    ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=3776ab&color=3776ab)    |
 
