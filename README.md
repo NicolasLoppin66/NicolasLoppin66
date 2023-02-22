@@ -42,7 +42,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 | :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
 |       | ![Windows Terminal](https://img.shields.io/badge/Shell-Windows_Terminal-informational?style=flat&logo=windowsterminal&logoColor=313131&color=313131) |
 |       | ![PowerShell](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=5391fe&color=5391fe)                  |
-|       | ![Git Bash](https://img.shields.io/badge/Shell-Git-informational?style=flat&logo=git&logoColor=f05032&color=f05032)                                  |
+|       | ![Git Bash](https://img.shields.io/badge/Shell-Git_Bash-informational?style=flat&logo=git&logoColor=f05032&color=f05032)                                  |
 
 | IDE |                                                                                                                                          |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------------------- |
@@ -88,7 +88,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ### CMS
 
-![WordPress](https://img.shields.io/badge/Framework-WordPress-informational?style=flat&logo=wordpress&logoColor=21759B&color=21759B)
+![WordPress](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=21759B&color=21759B)
 
 ---
 
