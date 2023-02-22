@@ -1,12 +1,19 @@
 # Bienvenue sur mon Profils
 
-Je m'appel Nicolas LOPPIN, j'ai 22 ans et je suis développeur web. Je suis motivé, déterminé, et passionné par mon métier !
+Je m'appel Nicolas LOPPIN, j'ai 22 ans et je me forme au développeur web. 
+Je suis motivé, déterminé, et passionné par mon métier !
 Je suis en constante recherche de nouvelle chose a apprendre et a découvir.
+
+Actuellement en formation en tant que développeur Web et Web mobile.
+
+A l'Idem Creative Art School au Le Soler à Perpignan
+
+Le partage et la transmission sont pour moi deux choses essentielles dans l'approche des différent métier qui peut me faire apprendre, c'est pourquoi, toujours dans le partage.
+
 
 <h2> 👋 Hi there 👋 </h2>
 
 ---
-<h2> 👨‍💻 Whoami </h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335 "Mail professionnelle")](mailto:loppin.n66@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2 "Nico - Corp")](https://www.linkedin.com/in/nicolasloppin/)
@@ -59,14 +66,6 @@ Je suis en constante recherche de nouvelle chose a apprendre et a découvir.
 ![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=000000&color=000000)
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=02569b&color=02569b)
 ![Symfony](https://img.shields.io/badge/Framework-Symfony-informational?style=flat&logo=symfony&logoColor=000000&color=000000)
-
----
-
-Actuellement en formation en tant que développeur Web et Web mobile.
-
-A l'Idem Creative Art School au Le Soler à Perpignan
-
-Le partage et la transmission sont pour moi deux choses essentielles dans l'approche des différent métier qui peut me faire apprendre, c'est pourquoi, toujours dans le partage.
 
 --- 
 
