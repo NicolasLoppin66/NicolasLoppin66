@@ -81,16 +81,16 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 | :-------: | :----------------------------------------------------------------------------------------------------------------------------- |
 |    JS     | ![Node.js](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=339933&color=339933) |
 |    JS     | ![Expo](https://img.shields.io/badge/Framework-Expo-informational?style=flat&logo=expo&logoColor=000020&color=000020)          |
-|    JS     | ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=61dafb&color=61dafb)       |
+|    JS     | ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=61DAFB&color=61DAFB)       |
 |  Python   | ![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=000000&color=000000)       |
 |   Dart    | ![Flutter](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=02569b&color=02569b) |
 |    PHP    | ![Symfony](https://img.shields.io/badge/Framework-Symfony-informational?style=flat&logo=symfony&logoColor=000000&color=000000) |
 
 ---
 
-### CMS
-
-![WordPress](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=21759B&color=21759B)
+| CMS |                                                                                                                                |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------- |
+|     | ![WordPress](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=21759B&color=21759B) |
 
 ---
 
