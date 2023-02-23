@@ -20,8 +20,8 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 [![Gitlab](https://img.shields.io/badge/GitLab-informational?style=for-the-badge&logo=gitlab&logoColor=white&color=FC6D26 "NicolasLoppin66")](https://gitlab.com/NicolasL66)
 ![Discord](https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=5865f2 "TrinoxGFX#9081")
 
-|                                                 📈 Statistiques Github                                                  |                                                                                                                                       |
-| :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+|                                                 📈 Statistiques Github                                                  |                                                                                                                                                      |
+| :---------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![](https://github-readme-stats.vercel.app/api?username=NicolasLoppin66&show_icons=true&theme=react&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLoppin66&layout=compact&theme=react&hide_langs_below=8&count_private=true) |
 
   <h1>👉 Compétences</h1>
@@ -29,6 +29,54 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ## 🛠 Outils & Technologies
 
 ---
+
+## Highlights
+
+<table>
+    <tr>
+        <th>Inline-diff</th>
+        <th>Status dashboard</th>
+    </tr>
+    <tr>
+        <td width="50%">
+            <a href="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif">
+                <img src="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif" width="100%">
+            </a>
+        </td>
+        <td width="50%">
+            <a href="https://cloud.githubusercontent.com/assets/5016978/6704171/2f236466-cd02-11e4-9b7d-22cc880b5e9d.png">
+                <img src="https://cloud.githubusercontent.com/assets/5016978/6704171/2f236466-cd02-11e4-9b7d-22cc880b5e9d.png" width="100%">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">(Un)stage and revert individual lines and hunks.</td>
+        <td width="50%">Display and overview and offer actions to manipulate your project state.</td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <th>Branch dashboard</th>
+        <th>Tags dashboard</th>
+    </tr>
+    <tr>
+        <td width="50%">
+            <a href="https://cloud.githubusercontent.com/assets/5016978/6704168/2b2e7b84-cd02-11e4-90f4-8dd96b21edeb.png">
+                <img src="https://cloud.githubusercontent.com/assets/5016978/6704168/2b2e7b84-cd02-11e4-90f4-8dd96b21edeb.png" width="100%">
+            </a>
+        </td>
+        <td width="50%">
+            <a href="https://cloud.githubusercontent.com/assets/5016978/6704169/2c80beac-cd02-11e4-8940-986ea0f0d6bb.png">
+                <img src="https://cloud.githubusercontent.com/assets/5016978/6704169/2c80beac-cd02-11e4-8940-986ea0f0d6bb.png" width="100%">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">View and manipulate local and remote branches.</td>
+        <td width="50%">View and manipulate local and remote tags.</td>
+    </tr>
+</table>
 
 ### Technologie
 
@@ -68,9 +116,9 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ---
 
-| Env Developpement |                                                                                                                                        |
-| :---------------: | :------------------------------------------------------------------------------------------------------------------------------------- |
-|                   | ![Node.js](https://img.shields.io/badge/Env_Dev-Node.js-informational?style=flat&logo=node.js&logoColor=339933&color=339933)         |
+| Env Developpement |                                                                                                                              |
+| :---------------: | :--------------------------------------------------------------------------------------------------------------------------- |
+|                   | ![Node.js](https://img.shields.io/badge/Env_Dev-Node.js-informational?style=flat&logo=node.js&logoColor=339933&color=339933) |
 |                   | ![Laragon](https://img.shields.io/badge/Env_Dev-Laragon-informational?style=flat&logo=laragon&logoColor=0E83CD&color=0E83CD) |
 
 ---
