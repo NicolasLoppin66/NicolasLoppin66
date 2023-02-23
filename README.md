@@ -33,6 +33,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ### Technologie
 
 <details>
+  <summary> Technologie </summary>
 
 |  Language  |                                                                                                                              |
 | :--------: | :--------------------------------------------------------------------------------------------------------------------------- |
