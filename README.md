@@ -30,54 +30,6 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ---
 
-## Highlights
-
-<table>
-    <tr>
-        <th>Inline-diff</th>
-        <th>Status dashboard</th>
-    </tr>
-    <tr>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif" width="100%">
-            </a>
-        </td>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6704171/2f236466-cd02-11e4-9b7d-22cc880b5e9d.png">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6704171/2f236466-cd02-11e4-9b7d-22cc880b5e9d.png" width="100%">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">(Un)stage and revert individual lines and hunks.</td>
-        <td width="50%">Display and overview and offer actions to manipulate your project state.</td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th>Branch dashboard</th>
-        <th>Tags dashboard</th>
-    </tr>
-    <tr>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6704168/2b2e7b84-cd02-11e4-90f4-8dd96b21edeb.png">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6704168/2b2e7b84-cd02-11e4-90f4-8dd96b21edeb.png" width="100%">
-            </a>
-        </td>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6704169/2c80beac-cd02-11e4-8940-986ea0f0d6bb.png">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6704169/2c80beac-cd02-11e4-8940-986ea0f0d6bb.png" width="100%">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">View and manipulate local and remote branches.</td>
-        <td width="50%">View and manipulate local and remote tags.</td>
-    </tr>
-</table>
-
 ### Technologie
 
 |  Language  |                                                                                                                              |
