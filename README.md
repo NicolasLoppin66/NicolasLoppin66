@@ -32,6 +32,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ### Technologie
 
+<details>
 |  Language  |                                                                                                                              |
 | :--------: | :--------------------------------------------------------------------------------------------------------------------------- |
 | Front-End  | ![Html](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=E34F26&color=E34F26)          |
@@ -72,7 +73,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 | :---------------: | :--------------------------------------------------------------------------------------------------------------------------- |
 |                   | ![Node.js](https://img.shields.io/badge/Env_Dev-Node.js-informational?style=flat&logo=node.js&logoColor=339933&color=339933) |
 |                   | ![Laragon](https://img.shields.io/badge/Env_Dev-Laragon-informational?style=flat&logo=laragon&logoColor=0E83CD&color=0E83CD) |
-
+</details>
 ---
 
 ### Outils
