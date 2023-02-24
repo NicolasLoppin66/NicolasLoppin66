@@ -72,8 +72,8 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ## Outils
 
 ### **Comms**
-![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-informational?style=for-the-badge&logo=microsoftteams&logoColor=white&color=#6264A7)
-![TeamSpeak](https://img.shields.io/badge/TeamSpeal-informational?style=for-the-badge&logo=teamspeak&logoColor=white&color=#2580C3)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-informational?style=for-the-badge&logo=microsoftteams&logoColor=white&color=6264A7)
+![TeamSpeak](https://img.shields.io/badge/TeamSpeal-informational?style=for-the-badge&logo=teamspeak&logoColor=white&color=2580C3)
 
 ### **OS**  
 ![W11](https://img.shields.io/badge/Window_11-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)
@@ -89,8 +89,10 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ### **IDE**  
 ![VS](https://img.shields.io/badge/Visual_Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=5C2D91)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007acc)
+![NOTEPAD++](https://img.shields.io/badge/Notepad++-informational?style=for-the-badge&logo=notepad++&logoColor=white&color=90E59A)
 ![IJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=for-the-badge&logo=intellijidea&logoColor=white&color=000000)
 ![PHP STORM](https://img.shields.io/badge/PhpStorm-informational?style=for-the-badge&logo=phpstorm&logoColor=white&color=000000)
+![WEB STORM](https://img.shields.io/badge/WebStorm-informational?style=for-the-badge&logo=webstorm&logoColor=white&color=000000)
 
 ### **Package Manager**  
 ![NPM](https://img.shields.io/badge/Npm-informational?style=for-the-badge&logo=npm&logoColor=white&color=cb3837)
