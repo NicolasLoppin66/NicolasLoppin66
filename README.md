@@ -47,8 +47,8 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![Expo](https://img.shields.io/badge/Expo-informational?style=for-the-badge&logo=markdown&logoColor=white&color=000020)
 ![Flask](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
 ![Symfony](https://img.shields.io/badge/Symfony-informational?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
-![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=markdown&logoColor=white&color=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=markdown&logoColor=white&color=02569b)
+![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=markdown&logoColor=white&color=61DAFB)
 
 
 ### **CMS**
