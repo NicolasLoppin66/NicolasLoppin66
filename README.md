@@ -102,6 +102,10 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ### **UX / UI**  
 ![FIGMA](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E)
 
+### **Project management tools**  
+![TRELLO](https://img.shields.io/badge/Trello-informational?style=for-the-badge&logo=trello&logoColor=white&color=0052CC) 
+![EVERNOTE](https://img.shields.io/badge/Evernote-informational?style=for-the-badge&logo=evernote&logoColor=white&color=#00A82D) 
+
 ---
 
 ## LOISIRS
