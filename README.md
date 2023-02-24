@@ -26,11 +26,11 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
   <h1>👉 Compétences</h1>
 
-#### 🛠 Outils & Technologies
+# 🛠 Outils & Technologies
 
 ---
 
-### Language
+## Language
 
 ![Html](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=E34F26&color=E34F26)  
 ![Js](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)  
