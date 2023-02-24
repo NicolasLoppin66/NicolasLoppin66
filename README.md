@@ -82,8 +82,8 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![IOS](https://img.shields.io/badge/Android-informational?style=for-the-badge&logo=android&logoColor=white&color=3ddc84)
 
 ### **Shell**  
-![PowerShell](https://img.shields.io/badge/PowerShell-informational?style=for-the-badge&logo=powershell&logoColor=white&color=5391fe)
 ![Git Bash](https://img.shields.io/badge/Git_Bash-informational?style=for-the-badge&logo=git&logoColor=white&color=f05032)
+![PowerShell](https://img.shields.io/badge/PowerShell-informational?style=for-the-badge&logo=powershell&logoColor=white&color=5391fe)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=313131)
 
 ### **IDE**  
@@ -95,8 +95,8 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![WEB STORM](https://img.shields.io/badge/WebStorm-informational?style=for-the-badge&logo=webstorm&logoColor=white&color=000000)
 
 ### **Package Manager**  
-![YARN](https://img.shields.io/badge/Yarn-informational?style=for-the-badge&logo=yarn&logoColor=white&color=2C8EBB)
 ![NPM](https://img.shields.io/badge/Npm-informational?style=for-the-badge&logo=npm&logoColor=white&color=cb3837)
+![YARN](https://img.shields.io/badge/Yarn-informational?style=for-the-badge&logo=yarn&logoColor=white&color=2C8EBB)
 
 ### **UX / UI**  
 ![FIGMA](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E)
