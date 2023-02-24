@@ -72,28 +72,28 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ## Outils
 
 OS  
-![Ws11](https://img.shields.io/badge/OS-Window_11-informational?style=flat&logo=windows&logoColor=0078D6&color=0078D6)
-![Ios](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=3ddc84&color=3ddc84)
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=FCC624&color=FCC624)
-![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=E95420&color=E95420)
+![W11](https://img.shields.io/badge/Window_11-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)
+![IOS](https://img.shields.io/badge/Android-informational?style=for-the-badge&logo=android&logoColor=white&color=3ddc84)
+![Linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)
 
 Shell  
-![Windows Terminal](https://img.shields.io/badge/Shell-Windows_Terminal-informational?style=flat&logo=windowsterminal&logoColor=313131&color=313131)
-![PowerShell](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=5391fe&color=5391fe)
-![Git Bash](https://img.shields.io/badge/Shell-Git_Bash-informational?style=flat&logo=git&logoColor=f05032&color=f05032)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=313131)
+![PowerShell](https://img.shields.io/badge/PowerShell-informational?style=for-the-badge&logo=powershell&logoColor=white&color=5391fe)
+![Git Bash](https://img.shields.io/badge/Git_Bash-informational?style=for-the-badge&logo=git&logoColor=white&color=f05032)
 
 IDE  
-![VS](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=5C2D91&color=5C2D91)
-![VSC](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=007acc&color=007acc)
-![Ij IDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=000000&color=000000)
-![PhpStorm](https://img.shields.io/badge/IDE-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=000000&color=000000)
+![VS](https://img.shields.io/badge/Visual_Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=5C2D91)
+![VSC](https://img.shields.io/badge/Visual_Studio_Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007acc)
+![IJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=for-the-badge&logo=intellijidea&logoColor=white&color=000000)
+![PHP STORM](https://img.shields.io/badge/Phpstorm-informational?style=for-the-badge&logo=phpstorm&logoColor=white&color=000000)
 
 Package Manager  
-![NPM](https://img.shields.io/badge/Package_Manager-Npm-informational?style=flat&logo=npm&logoColor=cb3837&color=cb3837)
-![Yarn](https://img.shields.io/badge/Package_Manager-Yarn-informational?style=flat&logo=yarn&logoColor=2C8EBB&color=2C8EBB)
+![NPM](https://img.shields.io/badge/Npm-informational?style=for-the-badge&logo=npm&logoColor=white&color=cb3837)
+![YARN](https://img.shields.io/badge/Yarn-informational?style=for-the-badge&logo=yarn&logoColor=white&color=2C8EBB)
 
 UX / UI  
-![Figma](https://img.shields.io/badge/UX/UI-Figma-informational?style=flat&logo=figma&logoColor=F24E1E&color=F24E1E)
+![FIGMA](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E)
 
 ---
 
