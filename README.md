@@ -125,7 +125,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![Football_Américain](https://img.shields.io/badge/Passion-Football_Américain_NFL-informational?style=for-the-badge&logo=american_football&logoColor=000000&color=FFFF00)
 ![Baseball](https://img.shields.io/badge/Passion-Baseball_MLB-informational?style=for-the-badge&logo=american_football&logoColor=000000&color=#041E42)
 ![Gaming](https://img.shields.io/badge/Passion-Gaming-informational?style=for-the-badge&logo=gaming&logoColor=000000&color=00ff00)
-![F1](https://img.shields.io/badge/Formule_1-informational?style=for-the-badge&logo=f1&logoColor=000000&color=E10600)
+![F1](https://img.shields.io/badge/Formule_1-informational?style=for-the-badge&logo=f1&logoColor=white&color=E10600)
 
 ---
 
