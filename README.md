@@ -73,7 +73,8 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ### **Comms**
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-informational?style=for-the-badge&logo=microsoftteams&logoColor=white&color=6264A7)
-![TeamSpeak](https://img.shields.io/badge/TeamSpeal-informational?style=for-the-badge&logo=teamspeak&logoColor=white&color=2580C3)
+![TeamSpeak](https://img.shields.io/badge/TeamSpeak-informational?style=for-the-badge&logo=teamspeak&logoColor=white&color=2580C3)
+![Discord](https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=5865f2)
 
 ### **OS**  
 ![W11](https://img.shields.io/badge/Window_11-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)
