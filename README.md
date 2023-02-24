@@ -31,11 +31,11 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ---
 
 ### **Language**
+![Sass/Scss](https://img.shields.io/badge/SASS/SCSS-informational?style=for-the-badge&logo=sass&logoColor=white&color=bc2b80)
 ![HTML](https://img.shields.io/badge/HTML_5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![JS](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
-![CSS](https://img.shields.io/badge/CSS_3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
-![Sass/Scss](https://img.shields.io/badge/SASS/SCSS-informational?style=for-the-badge&logo=sass&logoColor=white&color=bc2b80)
 ![PHP](https://img.shields.io/badge/php-informational?style=for-the-badge&logo=php&logoColor=white&color=2151A1)
+![CSS](https://img.shields.io/badge/CSS_3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![Python](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776ab)
 ![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
