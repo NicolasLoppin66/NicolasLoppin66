@@ -14,7 +14,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ---
 
-![Gmail](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335 "Mail professionnelle : loppin.n66@gmail.com")
+![Gmail](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335 "Mail professionnel : loppin.n66@gmail.com")
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2 "Nicolas LOPPIN")](https://www.linkedin.com/in/nicolasloppin/)
 [![Github](https://img.shields.io/badge/Github-informational?style=for-the-badge&logo=github&logoColor=white&color=181717 "NicolasLoppin66")](https://github.com/NicolasLoppin66)
 [![Gitlab](https://img.shields.io/badge/GitLab-informational?style=for-the-badge&logo=gitlab&logoColor=white&color=FC6D26 "NicolasL66")](https://gitlab.com/NicolasL66)
@@ -23,7 +23,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 |                                                 📈 Statistiques Github                                                  |                                                                                                                                                      |
 | :---------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![](https://github-readme-stats.vercel.app/api?username=NicolasLoppin66&show_icons=true&theme=react&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLoppin66&layout=compact&theme=react&hide_langs_below=8&count_private=true) |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasLoppin66&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasLoppin66&repo=monSymfo)](https://github.com/NicolasLoppin66/monSymfo)
 
   <h1>👉 Compétences</h1>
 
