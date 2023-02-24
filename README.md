@@ -43,30 +43,25 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![Markdown](https://img.shields.io/badge/Markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
 ![Json](https://img.shields.io/badge/Json-informational?style=for-the-badge&logo=json&logoColor=white&color=000000)
 
-<details>
-  <summary>### **Framework**</summary>
+### **Framework**
 
 ![Expo](https://img.shields.io/badge/Expo-informational?style=for-the-badge&logo=expo&logoColor=white&color=000020)
 ![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=02569b)
 ![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=000000)
 ![Symfony](https://img.shields.io/badge/Symfony-informational?style=for-the-badge&logo=symfony&logoColor=white&color=000000)
-</details>
 
 ### **Module Bundle**
 
 ![Webpack](https://img.shields.io/badge/Weback-informational?style=for-the-badge&logo=webpack&logoColor=white&color=8DD6F9)
 
-
 ### **CMS**
 
 ![WordPress](https://img.shields.io/badge/WordPress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=21759B)
 
-
 ### **Container**
 
 ![Docker](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
-
 
 ### **Env Developpement**
 
