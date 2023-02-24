@@ -31,6 +31,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ---
 
 ### **Language**
+
 ![Sass/Scss](https://img.shields.io/badge/SASS/SCSS-informational?style=for-the-badge&logo=sass&logoColor=white&color=bc2b80)
 ![HTML](https://img.shields.io/badge/HTML_5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![JS](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
@@ -53,18 +54,18 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ### **CMS**
 
-![WordPress](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=21759B&color=21759B)
+![WordPress](https://img.shields.io/badge/WordPress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=21759B)
 
 
 ### **Container**
 
-![Docker](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=2496ED&color=2496ED)
+![Docker](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
 
 
 ### **Env Developpement**
 
-![Node.js](https://img.shields.io/badge/Env_Dev-Node.js-informational?style=flat&logo=node.js&logoColor=339933&color=339933)
-![Laragon](https://img.shields.io/badge/Env_Dev-Laragon-informational?style=flat&logo=laragon&logoColor=0E83CD&color=0E83CD)
+![Node.js](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=339933)
+![Laragon](https://img.shields.io/badge/Laragon-informational?style=for-the-badge&logo=laragon&logoColor=white&color=0E83CD)
 
 ---
 
