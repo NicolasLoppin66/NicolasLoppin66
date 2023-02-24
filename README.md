@@ -52,6 +52,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=000000)
 ![Symfony](https://img.shields.io/badge/Symfony-informational?style=for-the-badge&logo=symfony&logoColor=white&color=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=7952B3)
 
 ### **Module Bundle**
 
@@ -119,9 +120,10 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ## LOISIRS
 
-![Learning](https://img.shields.io/badge/Passion-Learning-informational?style=for-the-badge&logo=learning&logoColor=000000&color=ff0000)
-![Coding](https://img.shields.io/badge/Passion-Coding-informational?style=for-the-badge&logo=coding&logoColor=000000&color=ff7f00)
-![American_Football](https://img.shields.io/badge/Passion-American_Football-informational?style=for-the-badge&logo=american_football&logoColor=000000&color=FFFF00)
+![Learning](https://img.shields.io/badge/Passion-Apprentissage-informational?style=for-the-badge&logo=learning&logoColor=000000&color=ff0000)
+![Coding](https://img.shields.io/badge/Passion-Programmation-informational?style=for-the-badge&logo=coding&logoColor=000000&color=ff7f00)
+![Football_Américain](https://img.shields.io/badge/Passion-Football_Américain_NFL-informational?style=for-the-badge&logo=american_football&logoColor=000000&color=FFFF00)
+![Baseball](https://img.shields.io/badge/Passion-Baseball_MLB-informational?style=for-the-badge&logo=american_football&logoColor=000000&color=#041E42)
 ![Gaming](https://img.shields.io/badge/Passion-Gaming-informational?style=for-the-badge&logo=gaming&logoColor=000000&color=00ff00)
 
 ---
