@@ -45,15 +45,10 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ### **Framework**
 
 ![Expo](https://img.shields.io/badge/Expo-informational?style=for-the-badge&logo=markdown&logoColor=white&color=000020)
-![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=markdown&logoColor=white&color=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
-![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=markdown&logoColor=white&color=02569b)
 ![Symfony](https://img.shields.io/badge/Symfony-informational?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
-![Expo](https://img.shields.io/badge/Framework-Expo-informational?style=flat&logo=expo&logoColor=000020&color=000020)
-![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=61DAFB&color=61DAFB)
-![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=000000&color=000000)
-![Flutter](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=02569b&color=02569b)
-![Symfony](https://img.shields.io/badge/Framework-Symfony-informational?style=flat&logo=symfony&logoColor=000000&color=000000)
+![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=markdown&logoColor=white&color=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=markdown&logoColor=white&color=02569b)
 
 
 ### **CMS**
