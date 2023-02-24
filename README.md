@@ -123,7 +123,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![Learning](https://img.shields.io/badge/Passion-Apprentissage-informational?style=for-the-badge&logo=learning&logoColor=000000&color=ff0000)
 ![Coding](https://img.shields.io/badge/Passion-Programmation-informational?style=for-the-badge&logo=coding&logoColor=000000&color=ff7f00)
 ![Football_Américain](https://img.shields.io/badge/Passion-Football_Américain_NFL-informational?style=for-the-badge&logo=american_football&logoColor=000000&color=FFFF00)
-![Baseball](https://img.shields.io/badge/Passion-Baseball_MLB-informational?style=for-the-badge&logo=american_football&logoColor=000000&color=#041E42)
+![Baseball](https://img.shields.io/badge/Baseball_MLB-informational?style=for-the-badge&logo=mlb&logoColor=white&color=#041E42)
 ![Gaming](https://img.shields.io/badge/Passion-Gaming-informational?style=for-the-badge&logo=gaming&logoColor=000000&color=00ff00)
 ![F1](https://img.shields.io/badge/Formule_1-informational?style=for-the-badge&logo=f1&logoColor=white&color=E10600)
 
