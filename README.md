@@ -31,7 +31,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ---
 
 ### Language
-
+![Html](https://img.shields.io/badge/HTML_5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![Html](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=E34F26&color=E34F26)
 ![Js](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)
 ![Css](https://img.shields.io/badge/Code-CSS_3-informational?style=flat&logo=css3&logoColor=1572B6&color=1572B6)
