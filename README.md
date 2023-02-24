@@ -37,9 +37,9 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![Sass/Scss](https://img.shields.io/badge/SASS/SCSS-informational?style=for-the-badge&logo=sass&logoColor=white&color=bc2b80)
 ![PHP](https://img.shields.io/badge/php-informational?style=for-the-badge&logo=php&logoColor=white&color=2151A1)
 ![Python](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776ab)
-![MySQL](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=4479A1&color=4479A1)
-![MySQL](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=47A248&color=47A248)
-![Markdown](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=000000&color=000000)
+![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
+![Markdown](https://img.shields.io/badge/Markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
 
 ---
 
