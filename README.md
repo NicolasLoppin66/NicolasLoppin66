@@ -47,12 +47,12 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ### **Framework**
 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=7952B3)
 ![Expo](https://img.shields.io/badge/Expo-informational?style=for-the-badge&logo=expo&logoColor=white&color=000020)
 ![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=02569b)
 ![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=000000)
 ![Symfony](https://img.shields.io/badge/Symfony-informational?style=for-the-badge&logo=symfony&logoColor=white&color=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=7952B3)
 
 ### **Module Bundle**
 
