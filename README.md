@@ -41,6 +41,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
 ![Markdown](https://img.shields.io/badge/Markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
+![Json](https://img.shields.io/badge/Json-informational?style=for-the-badge&logo=json&logoColor=white&color=000000)
 
 
 ### **Framework**
@@ -50,6 +51,11 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=000000)
 ![Symfony](https://img.shields.io/badge/Symfony-informational?style=for-the-badge&logo=symfony&logoColor=white&color=000000)
+
+
+### **Module Bundle**
+
+![Webpack](https://img.shields.io/badge/Weback-informational?style=for-the-badge&logo=webpack&logoColor=white&color=8DD6F9)
 
 
 ### **CMS**
