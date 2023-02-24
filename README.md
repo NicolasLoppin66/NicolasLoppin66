@@ -41,7 +41,6 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
 ![Markdown](https://img.shields.io/badge/Markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
 
----
 
 ### Framework
 
@@ -51,19 +50,16 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=02569b&color=02569b)
 ![Symfony](https://img.shields.io/badge/Framework-Symfony-informational?style=flat&logo=symfony&logoColor=000000&color=000000)
 
----
 
 ### CMS
 
 ![WordPress](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=21759B&color=21759B)
 
----
 
 ### Container
 
 ![Docker](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=2496ED&color=2496ED)
 
----
 
 ### Env Developpement
 
