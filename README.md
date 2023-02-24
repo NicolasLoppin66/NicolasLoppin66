@@ -35,7 +35,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![Sass/Scss](https://img.shields.io/badge/SASS/SCSS-informational?style=for-the-badge&logo=sass&logoColor=white&color=bc2b80)
 ![HTML](https://img.shields.io/badge/HTML_5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![JS](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
-![PHP](https://img.shields.io/badge/php-informational?style=for-the-badge&logo=php&logoColor=white&color=2151A1)
+![PHP](https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=2151A1)
 ![CSS](https://img.shields.io/badge/CSS_3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![Python](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776ab)
 ![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
@@ -71,33 +71,37 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ## Outils
 
-OS  
+### **Comms**
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-informational?style=for-the-badge&logo=microsoftteams&logoColor=white&color=#6264A7)
+![TeamSpeak](https://img.shields.io/badge/TeamSpeal-informational?style=for-the-badge&logo=teamspeak&logoColor=white&color=#2580C3)
+
+### **OS**  
 ![W11](https://img.shields.io/badge/Window_11-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)
 ![IOS](https://img.shields.io/badge/Android-informational?style=for-the-badge&logo=android&logoColor=white&color=3ddc84)
 ![Linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FCC624)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)
 
-Shell  
+### **Shell**  
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=313131)
 ![PowerShell](https://img.shields.io/badge/PowerShell-informational?style=for-the-badge&logo=powershell&logoColor=white&color=5391fe)
 ![Git Bash](https://img.shields.io/badge/Git_Bash-informational?style=for-the-badge&logo=git&logoColor=white&color=f05032)
 
-IDE  
+### **IDE**  
 ![VS](https://img.shields.io/badge/Visual_Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=5C2D91)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007acc)
 ![IJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=for-the-badge&logo=intellijidea&logoColor=white&color=000000)
-![PHP STORM](https://img.shields.io/badge/Phpstorm-informational?style=for-the-badge&logo=phpstorm&logoColor=white&color=000000)
+![PHP STORM](https://img.shields.io/badge/PhpStorm-informational?style=for-the-badge&logo=phpstorm&logoColor=white&color=000000)
 
-Package Manager  
+### **Package Manager**  
 ![NPM](https://img.shields.io/badge/Npm-informational?style=for-the-badge&logo=npm&logoColor=white&color=cb3837)
 ![YARN](https://img.shields.io/badge/Yarn-informational?style=for-the-badge&logo=yarn&logoColor=white&color=2C8EBB)
 
-UX / UI  
+### **UX / UI**  
 ![FIGMA](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E)
 
 ---
 
-### LOISIRS
+## LOISIRS
 
 ![Learning](https://img.shields.io/badge/Passion-Learning-informational?style=for-the-badge&logo=learning&logoColor=000000&color=ff0000)
 ![Coding](https://img.shields.io/badge/Passion-Coding-informational?style=for-the-badge&logo=coding&logoColor=000000&color=ff7f00)
