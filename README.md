@@ -26,11 +26,11 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
   <h1>👉 Compétences</h1>
 
-# 🛠 Outils & Technologies
+## 🛠 Outils & Technologies
 
 ---
 
-## Language
+### Language
 
 ![Html](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=E34F26&color=E34F26)
 ![Js](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)
@@ -44,7 +44,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ---
 
-## Framework
+### Framework
 
 ![Expo](https://img.shields.io/badge/Framework-Expo-informational?style=flat&logo=expo&logoColor=000020&color=000020)
 ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=61DAFB&color=61DAFB)
@@ -54,49 +54,49 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ---
 
-## CMS
+### CMS
 
 ![WordPress](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=21759B&color=21759B)
 
 ---
 
-## Container
+### Container
 
 ![Docker](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=2496ED&color=2496ED)
 
 ---
 
-## Env Developpement
+### Env Developpement
 
 ![Node.js](https://img.shields.io/badge/Env_Dev-Node.js-informational?style=flat&logo=node.js&logoColor=339933&color=339933)
 ![Laragon](https://img.shields.io/badge/Env_Dev-Laragon-informational?style=flat&logo=laragon&logoColor=0E83CD&color=0E83CD)
 
 ---
 
-### Outils
+## Outils
 
-OS
+OS  
 ![Ws11](https://img.shields.io/badge/OS-Window_11-informational?style=flat&logo=windows&logoColor=0078D6&color=0078D6)
 ![Ios](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=3ddc84&color=3ddc84)
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=FCC624&color=FCC624)
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=E95420&color=E95420)
 
-Shell
+Shell  
 ![Windows Terminal](https://img.shields.io/badge/Shell-Windows_Terminal-informational?style=flat&logo=windowsterminal&logoColor=313131&color=313131)
 ![PowerShell](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=5391fe&color=5391fe)
 ![Git Bash](https://img.shields.io/badge/Shell-Git_Bash-informational?style=flat&logo=git&logoColor=f05032&color=f05032)
 
-IDE
+IDE  
 ![VS](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=5C2D91&color=5C2D91)
 ![VSC](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=007acc&color=007acc)
 ![Ij IDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=000000&color=000000)
 ![PhpStorm](https://img.shields.io/badge/IDE-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=000000&color=000000)
 
-Package Manager
+Package Manager  
 ![NPM](https://img.shields.io/badge/Package_Manager-Npm-informational?style=flat&logo=npm&logoColor=cb3837&color=cb3837)
 ![Yarn](https://img.shields.io/badge/Package_Manager-Yarn-informational?style=flat&logo=yarn&logoColor=2C8EBB&color=2C8EBB)
 
-UX / UI
+UX / UI  
 ![Figma](https://img.shields.io/badge/UX/UI-Figma-informational?style=flat&logo=figma&logoColor=F24E1E&color=F24E1E)
 
 ---
