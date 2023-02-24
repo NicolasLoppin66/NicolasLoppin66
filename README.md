@@ -30,7 +30,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ---
 
-### Language
+### **Language**
 ![HTML](https://img.shields.io/badge/HTML_5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![JS](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS_3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
@@ -42,7 +42,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![Markdown](https://img.shields.io/badge/Markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
 
 
-### Framework
+### **Framework**
 
 ![Expo](https://img.shields.io/badge/Framework-Expo-informational?style=flat&logo=expo&logoColor=000020&color=000020)
 ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=61DAFB&color=61DAFB)
@@ -51,17 +51,17 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![Symfony](https://img.shields.io/badge/Framework-Symfony-informational?style=flat&logo=symfony&logoColor=000000&color=000000)
 
 
-### CMS
+### **CMS**
 
 ![WordPress](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=21759B&color=21759B)
 
 
-### Container
+### **Container**
 
 ![Docker](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=2496ED&color=2496ED)
 
 
-### Env Developpement
+### **Env Developpement**
 
 ![Node.js](https://img.shields.io/badge/Env_Dev-Node.js-informational?style=flat&logo=node.js&logoColor=339933&color=339933)
 ![Laragon](https://img.shields.io/badge/Env_Dev-Laragon-informational?style=flat&logo=laragon&logoColor=0E83CD&color=0E83CD)
