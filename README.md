@@ -73,7 +73,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![Node.js](https://img.shields.io/badge/Env_Dev-Node.js-informational?style=flat&logo=node.js&logoColor=339933&color=339933)
 ![Laragon](https://img.shields.io/badge/Env_Dev-Laragon-informational?style=flat&logo=laragon&logoColor=0E83CD&color=0E83CD)
 
-## </details>
+---
 
 ### Outils
 
@@ -88,19 +88,18 @@ Shell
 ![PowerShell](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=5391fe&color=5391fe)  
 ![Git Bash](https://img.shields.io/badge/Shell-Git_Bash-informational?style=flat&logo=git&logoColor=f05032&color=f05032)
 
-     IDE
-
-WEB, ANDROID ![VS](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=5C2D91&color=5C2D91)  
-MULTI ![VSC](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=007acc&color=007acc)
-JAVA ![Ij IDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=000000&color=000000)  
-PHP ![PhpStorm](https://img.shields.io/badge/IDE-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=000000&color=000000)
+IDE
+![VS](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=5C2D91&color=5C2D91)  
+![VSC](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=007acc&color=007acc)
+![Ij IDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=000000&color=000000)  
+![PhpStorm](https://img.shields.io/badge/IDE-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=000000&color=000000)
 
 Package Manager  
 ![NPM](https://img.shields.io/badge/Package_Manager-Npm-informational?style=flat&logo=npm&logoColor=cb3837&color=cb3837)  
 ![Yarn](https://img.shields.io/badge/Package_Manager-Yarn-informational?style=flat&logo=yarn&logoColor=2C8EBB&color=2C8EBB)
 
 UX / UI  
-SoftWare ![Figma](https://img.shields.io/badge/UX/UI-Figma-informational?style=flat&logo=figma&logoColor=F24E1E&color=F24E1E)
+![Figma](https://img.shields.io/badge/UX/UI-Figma-informational?style=flat&logo=figma&logoColor=F24E1E&color=F24E1E)
 
 ---
 
