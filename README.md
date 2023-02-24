@@ -20,10 +20,10 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 [![Gitlab](https://img.shields.io/badge/GitLab-informational?style=for-the-badge&logo=gitlab&logoColor=white&color=FC6D26 "NicolasL66")](https://gitlab.com/NicolasL66)
 ![Discord](https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=5865f2 "TrinoxGFX#9081")
 
-|                                                 📈 Statistiques Github                                                  |                                                                                                                                                      |
-| :---------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![](https://github-readme-stats.vercel.app/api?username=NicolasLoppin66&show_icons=true&theme=react&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLoppin66&layout=compact&theme=react&hide_langs_below=8&count_private=true) |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasLoppin66&repo=monSymfo)](https://github.com/NicolasLoppin66/monSymfo)| Utilisation de Symfony, crée de façons manuelle avec la création de conteneur des différentes ressource necesaire avec un fichier docker. |
+|                                                                📈 Statistiques Github                                                                 |                                                                                                                                                      |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                ![](https://github-readme-stats.vercel.app/api?username=NicolasLoppin66&show_icons=true&theme=react&count_private=true)                | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLoppin66&layout=compact&theme=react&hide_langs_below=8&count_private=true) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasLoppin66&repo=monSymfo)](https://github.com/NicolasLoppin66/monSymfo) |      Utilisation de Symfony, crée de façons manuelle avec la création de conteneur des différentes ressource necesaire avec un fichier docker.       |
 
   <h1>👉 Compétences</h1>
 
@@ -74,21 +74,25 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ## Outils
 
 ### **Comms**
+
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-informational?style=for-the-badge&logo=microsoftteams&logoColor=white&color=6264A7)
 ![Discord](https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=5865f2)
 
-### **OS**  
+### **OS**
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)
 ![Linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FCC624)
 ![W11](https://img.shields.io/badge/Window_11-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)
 ![IOS](https://img.shields.io/badge/Android-informational?style=for-the-badge&logo=android&logoColor=white&color=3ddc84)
 
-### **Shell**  
+### **Shell**
+
 ![Git Bash](https://img.shields.io/badge/Git_Bash-informational?style=for-the-badge&logo=git&logoColor=white&color=f05032)
 ![PowerShell](https://img.shields.io/badge/PowerShell-informational?style=for-the-badge&logo=powershell&logoColor=white&color=5391fe)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=313131)
 
-### **IDE**  
+### **IDE**
+
 ![VS](https://img.shields.io/badge/Visual_Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=5C2D91)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007acc)
 ![NOTEPAD++](https://img.shields.io/badge/Notepad++-informational?style=for-the-badge&logo=notepadpp&logoColor=white&color=90E59A)
@@ -96,16 +100,19 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![PHP STORM](https://img.shields.io/badge/PhpStorm-informational?style=for-the-badge&logo=phpstorm&logoColor=white&color=000000)
 ![WEB STORM](https://img.shields.io/badge/WebStorm-informational?style=for-the-badge&logo=webstorm&logoColor=white&color=000000)
 
-### **Package Manager**  
+### **Package Manager**
+
 ![NPM](https://img.shields.io/badge/Npm-informational?style=for-the-badge&logo=npm&logoColor=white&color=cb3837)
 ![YARN](https://img.shields.io/badge/Yarn-informational?style=for-the-badge&logo=yarn&logoColor=white&color=2C8EBB)
 
-### **UX / UI**  
+### **UX / UI**
+
 ![FIGMA](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E)
 
-### **Project management tools**  
-![TRELLO](https://img.shields.io/badge/Trello-informational?style=for-the-badge&logo=trello&logoColor=white&color=0052CC) 
-![EVERNOTE](https://img.shields.io/badge/Evernote-informational?style=for-the-badge&logo=evernote&logoColor=white&color=#00A82D) 
+### **Project management tools**
+
+![TRELLO](https://img.shields.io/badge/Trello-informational?style=for-the-badge&logo=trello&logoColor=white&color=0052CC)
+![EVERNOTE](https://img.shields.io/badge/Evernote-informational?style=for-the-badge&logo=evernote&logoColor=white&color=#00A82D)
 
 ---
 
