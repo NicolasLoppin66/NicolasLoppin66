@@ -31,13 +31,10 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ---
 
 ### Language
-![Html](https://img.shields.io/badge/HTML_5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![Html](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
-![Html](https://img.shields.io/badge/CSS_3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
-![Html](https://img.shields.io/badge/HTML_5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![Html](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=E34F26&color=E34F26)
-![Js](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)
-![Css](https://img.shields.io/badge/Code-CSS_3-informational?style=flat&logo=css3&logoColor=1572B6&color=1572B6)
+![HTML](https://img.shields.io/badge/HTML_5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+![JS](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
+![CSS](https://img.shields.io/badge/CSS_3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
+![Sass/Scss](https://img.shields.io/badge/SASS/SCSS-informational?style=for-the-badge&logo=sass&logoColor=white&color=bc2b80)
 ![Sass/Scss](https://img.shields.io/badge/Code-SASS/SCSS-informational?style=flat&logo=sass&logoColor=bc2b80&color=bc2b80)
 ![Php](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=2151A1&color=2151A1)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=3776ab&color=3776ab)
