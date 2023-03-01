@@ -109,7 +109,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ![VS](https://img.shields.io/badge/Visual_Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=5C2D91)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007acc)
-![NOTEPAD++](https://img.shields.io/badge/Notepad++-informational?style=for-the-badge&logo=notepadplusplus&logoColor=white&color=90E59A)
+![NOTEPAD++](https://img.shields.io/badge/Notepad++-informational?style=for-the-badge&logo=notepadplusplus&logoColor=black&color=90E59A)
 ![IJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=for-the-badge&logo=intellijidea&logoColor=white&color=000000)
 ![PHP STORM](https://img.shields.io/badge/PhpStorm-informational?style=for-the-badge&logo=phpstorm&logoColor=white&color=000000)
 ![WEB STORM](https://img.shields.io/badge/WebStorm-informational?style=for-the-badge&logo=webstorm&logoColor=white&color=000000)
