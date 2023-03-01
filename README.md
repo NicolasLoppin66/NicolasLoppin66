@@ -48,6 +48,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ### **Framework**
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=7952B3)
+![Astro](https://img.shields.io/badge/Astro-informational?style=for-the-badge&logo=astro&logoColor=white&color=FF5D01)
 ![Expo](https://img.shields.io/badge/Expo-informational?style=for-the-badge&logo=expo&logoColor=white&color=000020)
 ![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=02569b)
 ![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
