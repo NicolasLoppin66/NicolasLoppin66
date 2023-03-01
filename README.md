@@ -58,6 +58,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ### **Module Bundle**
 
 ![Webpack](https://img.shields.io/badge/Weback-informational?style=for-the-badge&logo=webpack&logoColor=white&color=8DD6F9)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4)
 
 ### **CMS**
 
