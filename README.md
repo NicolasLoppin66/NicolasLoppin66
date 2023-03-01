@@ -20,7 +20,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 [![Gitlab](https://img.shields.io/badge/GitLab-informational?style=for-the-badge&logo=gitlab&logoColor=white&color=FC6D26 "NicolasL66")](https://gitlab.com/NicolasL66)
 ![Discord](https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=5865f2 "TrinoxGFX#9081")
 
-|                                       |                                     |                                     |
+|           Profile LinkedIN            |           Profile Github            |           Profile Gitlab            |
 | :-----------------------------------: | :---------------------------------: | :---------------------------------: |
 | ![](./img/qrcode/qrcode-linkedin.png) | ![](./img/qrcode/qrcode-github.png) | ![](./img/qrcode/qrcode-gitlab.png) |
 
