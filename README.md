@@ -29,7 +29,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ---
 
-|                                                                                  🗃️ **Projet**                                                                                  |                                                                                                                                           |
+|                                                                    🗃️ **Travaux Personnel & Professionnel**                                                                     |                                                                                                                                           |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |              [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasLoppin66&repo=monSymfo)](https://github.com/NicolasLoppin66/monSymfo)              | Utilisation de Symfony, crée de façons manuelle avec la création de conteneur des différentes ressource necesaire avec un fichier docker. |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasLoppin66&repo=Site-toysorus-PHP-OOP)](https://github.com/NicolasLoppin66/Site-toysorus-PHP-OOP) |                                   Création d'un site dynammique en PHP-OOP pour une boutique de jouer.                                    |
