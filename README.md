@@ -11,7 +11,7 @@ A l'Idem Creative Art School au Le Soler à Perpignan
 Le partage et la transmission sont pour moi deux choses essentielles dans l'approche des différent métier qui peut me faire apprendre, c'est pourquoi, toujours dans le partage.
 
 <p align="center">
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=750&color=F70000&center=true&vCenter=true&width=435&lines=%E2%AD%90+Dev+Junior+%E2%AD%90;%E2%AD%90%E2%AD%90+Developpeur+Front-End+%E2%AD%90%E2%AD%90;%E2%AD%90%E2%AD%90%E2%AD%90+Developpeur+Back-End+%E2%AD%90%E2%AD%90%E2%AD%90;%F0%9F%94%A5%F0%9F%94%A5+Developpeur+Full-stack+%F0%9F%94%A5%F0%9F%94%A5)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=750&color=F70000&center=true&vCenter=true&width=435&lines=%E2%AD%90+Dev+Junior+%E2%AD%90;%E2%AD%90%E2%AD%90+Developpeur+Front-End+%E2%AD%90%E2%AD%90;%E2%AD%90%E2%AD%90%E2%AD%90+Developpeur+Back-End+%E2%AD%90%E2%AD%90%E2%AD%90;%F0%9F%94%A5%F0%9F%94%A5+Developpeur+Full-stack+%F0%9F%94%A5%F0%9F%94%A5" alt="Typing SVG" /></a>
 </p>
 
 <h2> 👋 Hi there 👋 </h2>
