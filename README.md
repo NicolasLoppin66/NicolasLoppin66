@@ -118,6 +118,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![IJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=for-the-badge&logo=intellijidea&logoColor=white&color=000000)
 ![PHP STORM](https://img.shields.io/badge/PhpStorm-informational?style=for-the-badge&logo=phpstorm&logoColor=white&color=000000)
 ![WEB STORM](https://img.shields.io/badge/WebStorm-informational?style=for-the-badge&logo=webstorm&logoColor=white&color=000000)
+![CLion](https://img.shields.io/badge/CLion-informational?style=for-the-badge&logo=clion&logoColor=white&color=000000)
 
 ### **Package Manager**
 
