@@ -100,7 +100,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)
 ![Linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FCC624)
-![W11](https://img.shields.io/badge/Window_11-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)
+![W11](https://img.shields.io/badge/Window_11-informational?style=for-the-badge&logo=windows11&logoColor=white&color=0078D6)
 ![IOS](https://img.shields.io/badge/Android-informational?style=for-the-badge&logo=android&logoColor=white&color=3ddc84)
 
 ### **Shell**
