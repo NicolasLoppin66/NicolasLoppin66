@@ -27,9 +27,9 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ---
 
-|                                                 📈 Statistiques Github                                                  |                                                                                                                                                      |
-| :---------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![](https://github-readme-stats.vercel.app/api?username=NicolasLoppin66&show_icons=true&theme=react&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLoppin66&layout=compact&theme=react&hide_langs_below=8&count_private=true) |
+|                                                       📈 Statistiques Github                                                       |                                                                                                                                                                 |
+| :--------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![](https://github-readme-stats-sigma-five.vercel.app/api?username=NicolasLoppin66&show_icons=true&theme=react&count_private=true) | ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasLoppin66&layout=compact&theme=react&hide_langs_below=8&count_private=true) |
 
 ---
 
