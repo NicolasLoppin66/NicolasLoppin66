@@ -31,14 +31,14 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 | :--------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![](https://github-readme-stats-sigma-five.vercel.app/api?username=NicolasLoppin66&show_icons=true&theme=react&count_private=true) | ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasLoppin66&layout=compact&theme=react&hide_langs_below=8&count_private=true) |
 
----
+<!-- ---
 
-|                                                                    🗃️ **Travaux Personnel & Professionnel**                                                                     |                                                                                                                                           |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|              [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasLoppin66&repo=monSymfo)](https://github.com/NicolasLoppin66/monSymfo)              | Utilisation de Symfony, crée de façons manuelle avec la création de conteneur des différentes ressource necesaire avec un fichier docker. |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasLoppin66&repo=Site-toysorus-PHP-OOP)](https://github.com/NicolasLoppin66/Site-toysorus-PHP-OOP) |                                   Création d'un site dynammique en PHP-OOP pour une boutique de jouer.                                    |
+|                                                                          🗃️ **Travaux Personnel & Professionnel**                                                                          |                                                                                                                                           |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|              [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NicolasLoppin66&repo=monSymfo)](https://github.com/NicolasLoppin66/monSymfo)              | Utilisation de Symfony, crée de façons manuelle avec la création de conteneur des différentes ressource necesaire avec un fichier docker. |
+| [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NicolasLoppin66&repo=Site-toysorus-PHP-OOP)](https://github.com/NicolasLoppin66/Site-toysorus-PHP-OOP) |                                   Création d'un site dynammique en PHP-OOP pour une boutique de jouer.                                    |
 
----
+--- -->
 
 <h1>👉 Compétences</h1>
 
