@@ -69,7 +69,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=02569b)
 ![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 ![Next](https://img.shields.io/badge/Next-informational?style=for-the-badge&logo=nextjs&logoColor=white&color=61DAFB)
-![Nuxt](https://img.shields.io/badge/Nuxt-informational?style=for-the-badge&logo=nuxtjs&logoColor=white&color=61DAFB)
+![Nuxt](https://img.shields.io/badge/Nuxt-informational?style=for-the-badge&logo=nuxt&logoColor=white&color=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=000000)
 ![Symfony](https://img.shields.io/badge/Symfony-informational?style=for-the-badge&logo=symfony&logoColor=white&color=000000)
 
