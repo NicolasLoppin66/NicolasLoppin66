@@ -68,10 +68,12 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![Expo](https://img.shields.io/badge/Expo-informational?style=for-the-badge&logo=expo&logoColor=white&color=000020)
 ![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=02569b)
 ![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
-![Next](https://img.shields.io/badge/Next-informational?style=for-the-badge&logo=next.js&logoColor=white&color=61DAFB)
-![Nuxt](https://img.shields.io/badge/Nuxt-informational?style=for-the-badge&logo=nuxt.js&logoColor=white&color=61DAFB)
+![Nuxt](https://img.shields.io/badge/Nuxt-informational?style=for-the-badge&logo=nuxt.js&logoColor=white&color=00DC82)
+![Next](https://img.shields.io/badge/Next-informational?style=for-the-badge&logo=next.js&logoColor=white&color=000000)
 ![Flask](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=000000)
 ![Symfony](https://img.shields.io/badge/Symfony-informational?style=for-the-badge&logo=symfony&logoColor=white&color=000000)
+![Blazor](https://img.shields.io/badge/Blazor-informational?style=for-the-badge&logo=blazor&logoColor=white&color=512BD4)
+![Razor](https://img.shields.io/badge/Razor-informational?style=for-the-badge&logo=razor&logoColor=white&color=512BD4)
 
 ### **Module Bundle**
 
@@ -153,6 +155,8 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ![Minecraft](https://img.shields.io/badge/Game-Minecraft-informational?style=for-the-badge&logo=minecraft&logoColor=62b47a&color=62b47a)
 ![CS:GO](https://img.shields.io/badge/Game-Counter_Strike-informational?style=for-the-badge&logo=counter-strike&logoColor=000000&color=000000)
+![Steam](https://img.shields.io/badge/Game-Steam-informational?style=for-the-badge&logo=steam&logoColor=000000&color=000000)
+![Epic Games](https://img.shields.io/badge/Game-Epic-Games-informational?style=for-the-badge&logo=epicgames&logoColor=000000&color=000000)
 ![Riot Game](https://img.shields.io/badge/Game-Riot_Games-informational?style=for-the-badge&logo=riot-games&logoColor=D32936&color=D32936)
 
 ---
