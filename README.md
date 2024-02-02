@@ -1,12 +1,8 @@
 # Bienvenue sur mon Profils
 
-Je m'appel Nicolas LOPPIN, j'ai 22 ans et je me forme au développeur web.
+Je m'appel Nicolas LOPPIN, j'ai 23 ans et je me forme au développeur web.
 Je suis motivé, déterminé, et passionné par mon métier !
 Je suis en constante recherche de nouvelle chose a apprendre et a découvir.
-
-Actuellement en formation en tant que développeur Web et Web mobile.
-
-A l'Idem Creative Art School au Le Soler à Perpignan
 
 Le partage et la transmission sont pour moi deux choses essentielles dans l'approche des différent métier qui peut me faire apprendre, c'est pourquoi, toujours dans le partage.
 
@@ -156,7 +152,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![Minecraft](https://img.shields.io/badge/Game-Minecraft-informational?style=for-the-badge&logo=minecraft&logoColor=62b47a&color=62b47a)
 ![CS:GO](https://img.shields.io/badge/Game-Counter_Strike-informational?style=for-the-badge&logo=counter-strike&logoColor=000000&color=000000)
 ![Steam](https://img.shields.io/badge/Game-Steam-informational?style=for-the-badge&logo=steam&logoColor=000000&color=000000)
-![Epic Games](https://img.shields.io/badge/Game-Epic-Games-informational?style=for-the-badge&logo=epic-games&logoColor=000000&color=000000)
+<!-- ![Epic Games](https://img.shields.io/badge/Game-Epic-Games-informational?style=for-the-badge&logo=epic-games&logoColor=000000&color=000000) -->
 ![Riot Game](https://img.shields.io/badge/Game-Riot_Games-informational?style=for-the-badge&logo=riot-games&logoColor=D32936&color=D32936)
 
 ---
