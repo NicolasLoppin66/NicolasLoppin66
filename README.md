@@ -1,7 +1,7 @@
 # Bienvenue sur mon Profils
 
 Je m'appel Nicolas LOPPIN, j'ai 23 ans et je me forme au développeur web.
-Je suis motivé, déterminé, et passionné par mon métier !
+Je suis motivé, déterminé, et passionné par le métier de **Développeur** !
 Je suis en constante recherche de nouvelle chose a apprendre et a découvir.
 
 Le partage et la transmission sont pour moi deux choses essentielles dans l'approche des différent métier qui peut me faire apprendre, c'est pourquoi, toujours dans le partage.
