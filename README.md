@@ -54,8 +54,8 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
 ![Markdown](https://img.shields.io/badge/Markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
 ![Json](https://img.shields.io/badge/Json-informational?style=for-the-badge&logo=json&logoColor=white&color=000000)
-<!-- ![C#](https://img.shields.io/badge/C#-informational?style=for-the-badge&logo=c#&logoColor=white&color=512BD4) -->
 ![C++](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C)
+<!-- ![C#](https://img.shields.io/badge/C#-informational?style=for-the-badge&logo=c#&logoColor=white&color=512BD4) -->
 
 ### **Framework**
 
