@@ -3,7 +3,7 @@
 Je m'appel Nicolas LOPPIN, j'ai 24 ans et je me forme au développeur web.
 Je suis motivé, déterminé, et passionné par le métier de **Développeur** !
 Je suis en constante recherche de nouvelle chose a apprendre et a découvir.
-Actuellement en formation a l'École 42 de Perpignan afin de **perfectionner**,\n **approfondire les connaissance dans le développement** et encore plein d'autre chose. 
+Actuellement en formation a l'École 42 de Perpignan afin de **perfectionner**, **approfondire les connaissance dans le développement** et encore plein d'autre chose. 
 
 Le partage et la transmission sont pour moi deux choses essentielles dans l'approche des différent métier qui peut me faire apprendre, c'est pourquoi, toujours dans le partage.
 
