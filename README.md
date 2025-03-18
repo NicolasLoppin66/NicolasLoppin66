@@ -1,10 +1,10 @@
 # Bienvenue sur mon Profils
 
-Je m'appel Nicolas LOPPIN, j'ai 23 ans et je me forme au développeur web.
-Je suis motivé, déterminé, et passionné par mon métier !
-Je suis en constante recherche de nouvelle chose a apprendre et a découvir.
+Je m'appel Nicolas LOPPIN, j'ai 24 ans et je continue a me forme au métier du développement web, tous en continuant mais recherche d'emplois dans le domaine.
+Motivé, déterminé, et passionné par ce vaste métier !
+Je reste en constante recherche de nouvelle chose a apprendre et a découvir.
 
-Le partage et la transmission sont pour moi deux choses essentielles dans l'approche des différent métier qui peut me faire apprendre, c'est pourquoi, toujours dans le partage.
+Le partage et la transmission sont pour moi deux choses essentielles dans l'approche des différent métier qui peut me faire apprendre.
 
 <p align="center">
 <img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=750&color=F70000&center=true&vCenter=true&width=435&lines=%E2%AD%90+Dev+Junior+%E2%AD%90;%E2%AD%90%E2%AD%90+Developpeur+Front-End+%E2%AD%90%E2%AD%90;%E2%AD%90%E2%AD%90%E2%AD%90+Developpeur+Back-End+%E2%AD%90%E2%AD%90%E2%AD%90;%F0%9F%94%A5%F0%9F%94%A5+Developpeur+Full-stack+%F0%9F%94%A5%F0%9F%94%A5" alt="Typing SVG" />
@@ -14,8 +14,8 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ---
 
-![Gmail](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335 "Mail professionnel : loppin.n66@gmail.com")
-![Discord](https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=5865f2 "TrinoxGFX#9081")
+[![Gmail](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335 "Mail professionnel : loppin.n66@gmail.com")](mailto:loppin.n66@gmail.com)
+![Discord](https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=5865f2 "TrinoxGFX")
 
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2 "Nicolas LOPPIN")](https://www.linkedin.com/in/nicolasloppin/) | [![Github](https://img.shields.io/badge/Github-informational?style=for-the-badge&logo=github&logoColor=white&color=181717 "NicolasLoppin66")](https://github.com/NicolasLoppin66) | [![Gitlab](https://img.shields.io/badge/GitLab-informational?style=for-the-badge&logo=gitlab&logoColor=white&color=FC6D26 "NicolasL66")](https://gitlab.com/NicolasL66) |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -44,37 +44,43 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 ### **Language**
 
+- Style
+
+![CSS](https://img.shields.io/badge/CSS_3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![Sass/Scss](https://img.shields.io/badge/SASS/SCSS-informational?style=for-the-badge&logo=sass&logoColor=white&color=bc2b80)
+
+- Programming
+
 ![HTML](https://img.shields.io/badge/HTML_5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![JS](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=2151A1)
-![CSS](https://img.shields.io/badge/CSS_3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
-![Python](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776ab)
-![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
 ![Markdown](https://img.shields.io/badge/Markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
 ![Json](https://img.shields.io/badge/Json-informational?style=for-the-badge&logo=json&logoColor=white&color=000000)
+![Python](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776ab)
+
+- Database
+
+![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
+
 <!-- ![C#](https://img.shields.io/badge/C#-informational?style=for-the-badge&logo=c#&logoColor=white&color=512BD4) -->
-![C++](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C)
+<!-- ![C++](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C) -->
 
 ### **Framework**
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=7952B3)
-![Astro](https://img.shields.io/badge/Astro-informational?style=for-the-badge&logo=astro&logoColor=white&color=FF5D01)
-![Expo](https://img.shields.io/badge/Expo-informational?style=for-the-badge&logo=expo&logoColor=white&color=000020)
-![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=02569b)
+![Symfony](https://img.shields.io/badge/Symfony-informational?style=for-the-badge&logo=symfony&logoColor=white&color=000000)
 ![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 ![Nuxt](https://img.shields.io/badge/Nuxt-informational?style=for-the-badge&logo=nuxt.js&logoColor=white&color=00DC82)
 ![Next](https://img.shields.io/badge/Next-informational?style=for-the-badge&logo=next.js&logoColor=white&color=000000)
+![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=02569b)
+![Astro](https://img.shields.io/badge/Astro-informational?style=for-the-badge&logo=astro&logoColor=white&color=FF5D01)
+![Expo](https://img.shields.io/badge/Expo-informational?style=for-the-badge&logo=expo&logoColor=white&color=000020)
 ![Flask](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=000000)
-![Symfony](https://img.shields.io/badge/Symfony-informational?style=for-the-badge&logo=symfony&logoColor=white&color=000000)
-![Blazor](https://img.shields.io/badge/Blazor-informational?style=for-the-badge&logo=blazor&logoColor=white&color=512BD4)
-![Razor](https://img.shields.io/badge/Razor-informational?style=for-the-badge&logo=razor&logoColor=white&color=512BD4)
 
-### **Module Bundle**
+### **Module Style**
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4)
-![Webpack](https://img.shields.io/badge/Weback-informational?style=for-the-badge&logo=webpack&logoColor=white&color=8DD6F9)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=7952B3)
 
 ### **CMS**
 
@@ -83,6 +89,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ### **Container**
 
 ![Docker](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
+![VMWare](https://img.shields.io/badge/VMWare-informational?style=for-the-badge&logo=vmware&logoColor=white&color=607078)
 
 ### **Env Developpement**
 
@@ -116,16 +123,12 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![VS](https://img.shields.io/badge/Visual_Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=5C2D91)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007acc)
 ![NOTEPAD++](https://img.shields.io/badge/Notepad++-informational?style=for-the-badge&logo=notepadplusplus&logoColor=black&color=90E59A)
-<br>
-![IJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=for-the-badge&logo=intellijidea&logoColor=white&color=000000)
-![PHP STORM](https://img.shields.io/badge/PhpStorm-informational?style=for-the-badge&logo=phpstorm&logoColor=white&color=000000)
-![WEB STORM](https://img.shields.io/badge/WebStorm-informational?style=for-the-badge&logo=webstorm&logoColor=white&color=000000)
-![CLion](https://img.shields.io/badge/CLion-informational?style=for-the-badge&logo=clion&logoColor=white&color=000000)
 
 ### **Package Manager**
 
 ![NPM](https://img.shields.io/badge/Npm-informational?style=for-the-badge&logo=npm&logoColor=white&color=cb3837)
 ![YARN](https://img.shields.io/badge/Yarn-informational?style=for-the-badge&logo=yarn&logoColor=white&color=2C8EBB)
+![Webpack](https://img.shields.io/badge/Weback-informational?style=for-the-badge&logo=webpack&logoColor=white&color=8DD6F9)
 
 ### **UX / UI**
 
@@ -144,18 +147,8 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![Coding](https://img.shields.io/badge/Passion-Programmation-informational?style=for-the-badge&logo=coding&logoColor=000000&color=ff7f00)
 ![Gaming](https://img.shields.io/badge/Passion-Gaming-informational?style=for-the-badge&logo=gaming&logoColor=000000&color=00ff00)
 ![Baseball](https://img.shields.io/badge/SPORT-Baseball_MLB-informational?style=for-the-badge&logo=mlb&logoColor=white&color=#041E42)
-![Football_Américain](https://img.shields.io/badge/SPORT-Football_Américain_NFL-informational?style=for-the-badge&logo=american_football&logoColor=000000&color=FFFF00)
+![Football_Américain](https://img.shields.io/badge/SPORT-Football_Américain_NFL-informational?style=for-the-badge&logo=nfl&logoColor=000000&color=FFFF00)
 ![F1](https://img.shields.io/badge/SPORT-Formule_1-informational?style=for-the-badge&logo=f1&logoColor=white&color=E10600)
-
----
-
-![Minecraft](https://img.shields.io/badge/Game-Minecraft-informational?style=for-the-badge&logo=minecraft&logoColor=62b47a&color=62b47a)
-![CS:GO](https://img.shields.io/badge/Game-Counter_Strike-informational?style=for-the-badge&logo=counter-strike&logoColor=000000&color=000000)
-![Steam](https://img.shields.io/badge/Game-Steam-informational?style=for-the-badge&logo=steam&logoColor=000000&color=000000)
-<!-- ![Epic Games](https://img.shields.io/badge/Game-Epic-Games-informational?style=for-the-badge&logo=epic-games&logoColor=000000&color=000000) -->
-![Riot Game](https://img.shields.io/badge/Game-Riot_Games-informational?style=for-the-badge&logo=riot-games&logoColor=D32936&color=D32936)
-
----
 
 ### LANGUES
 
