@@ -63,9 +63,6 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
 
-<!-- ![C#](https://img.shields.io/badge/C#-informational?style=for-the-badge&logo=c#&logoColor=white&color=512BD4) -->
-<!-- ![C++](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C) -->
-
 ### **Framework**
 
 ![Symfony](https://img.shields.io/badge/Symfony-informational?style=for-the-badge&logo=symfony&logoColor=white&color=000000)
