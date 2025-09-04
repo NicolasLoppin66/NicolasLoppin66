@@ -1,6 +1,6 @@
 # Bienvenue sur mon Profils
 
-Je m'appel Nicolas LOPPIN, j'ai 24 ans et je continue a me forme au métier du développement web, tous en continuant mais recherche d'emplois dans le domaine.
+Je m'appel Nicolas LOPPIN, j'ai 25 ans et je continue a me forme au métier du développement web, tous en continuant mais recherche d'emplois dans le domaine.
 Motivé, déterminé, et passionné par ce vaste métier !
 Je reste en constante recherche de nouvelle chose a apprendre et a découvir.
 
