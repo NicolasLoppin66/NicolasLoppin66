@@ -1,61 +1,43 @@
-<p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=F70000&height=120&section=header&text=Nicolas%20LOPPIN&fontSize=40&fontAlign=50&fontColor=ffffff"/>
-</p>
+![Bannière Nicolas Loppin](https://capsule-render.vercel.app/api?type=waving&color=F70000&height=120&section=header&text=Nicolas%20LOPPIN&fontSize=40&fontAlign=50&fontColor=ffffff)
 
 # 👋 Bienvenue sur mon profil GitHub !
 
 <details open>
 <summary><b>À propos de moi</b></summary>
 
-<p align="center">
-<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=750&color=F70000&center=true&vCenter=true&width=435&lines=%E2%AD%90+Dev+Junior+%E2%AD%90;%E2%AD%90%E2%AD%90+Developpeur+Front-End+%E2%AD%90%E2%AD%90;%E2%AD%90%E2%AD%90%E2%AD%90+Developpeur+Back-End+%E2%AD%90%E2%AD%90%E2%AD%90;%F0%9F%94%A5%F0%9F%94%A5+Developpeur+Full-stack+%F0%9F%94%A5%F0%9F%94%A5" alt="Typing SVG" />
 </p>
+![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=750&color=F70000&center=true&vCenter=true&width=435&lines=%E2%AD%90+Dev+Junior+%E2%AD%90;%E2%AD%90%E2%AD%90+Developpeur+Front-End+%E2%AD%90%E2%AD%90;%E2%AD%90%E2%AD%90%E2%AD%90+Developpeur+Back-End+%E2%AD%90%E2%AD%90%E2%AD%90;%F0%9F%94%A5%F0%9F%94%A5+Developpeur+Full-stack+%F0%9F%94%A5%F0%9F%94%A5)
 
-<p align="center">
-	<b>Développeur web passionné</b> <br>
-    ![Age](https://img.shields.io/badge/Âge-24_ans-red?style=for-the-badge) <br>
-	Toujours en apprentissage, à la recherche d'opportunités dans le domaine du développement web.<br>
-	<b>Motivé, déterminé et curieux !</b> <br>
-	J'aime partager et transmettre mes connaissances.
-</p>
+**Développeur web passionné**  
+![Age](https://img.shields.io/badge/Âge-24_ans-red?style=for-the-badge)
+
+Toujours en apprentissage, à la recherche d'opportunités dans le domaine du développement web.  
+**Motivé, déterminé et curieux !**  
+J'aime partager et transmettre mes connaissances.
+
 </details>
 
----
+![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=750&color=F70000&center=true&vCenter=true&width=435&lines=%E2%AD%90+Dev+Junior+%E2%AD%90;%E2%AD%90%E2%AD%90+Developpeur+Front-End+%E2%AD%90%E2%AD%90;%E2%AD%90%E2%AD%90%E2%AD%90+Developpeur+Back-End+%E2%AD%90%E2%AD%90%E2%AD%90;%F0%9F%94%A5%F0%9F%94%A5+Developpeur+Full-stack+%F0%9F%94%A5%F0%9F%94%A5)
 
-<p align="center">
-<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=750&color=F70000&center=true&vCenter=true&width=435&lines=%E2%AD%90+Dev+Junior+%E2%AD%90;%E2%AD%90%E2%AD%90+Developpeur+Front-End+%E2%AD%90%E2%AD%90;%E2%AD%90%E2%AD%90%E2%AD%90+Developpeur+Back-End+%E2%AD%90%E2%AD%90%E2%AD%90;%F0%9F%94%A5%F0%9F%94%A5+Developpeur+Full-stack+%F0%9F%94%A5%F0%9F%94%A5" alt="Typing SVG" />
-</p>
+## 📱 Contact & Réseaux
 
-## � Contact & Réseaux
+| [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loppin.n66@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasloppin/) | [![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasLoppin66) |
+| [![Gitlab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/NicolasL66) | ![Discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white "TrinoxGFX") |
 
-<p align="center">
-	<a href="mailto:loppin.n66@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-	<a href="https://www.linkedin.com/in/nicolasloppin/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-	<a href="https://github.com/NicolasLoppin66"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-	<a href="https://gitlab.com/NicolasL66"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
-	<img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" title="TrinoxGFX"/>
-</p>
+### QR Codes de mes réseaux
 
-<details>
-<summary><b>QR Codes de mes réseaux</b></summary>
-
-<table>
-	<tr>
-		<td align="center"><b>LinkedIn</b><br><img src="./img/qrcode/qrcode-linkedin.png" width="120"/></td>
-		<td align="center"><b>GitHub</b><br><img src="./img/qrcode/qrcode-github.png" width="120"/></td>
-		<td align="center"><b>GitLab</b><br><img src="./img/qrcode/qrcode-gitlab.png" width="120"/></td>
-	</tr>
-</table>
-</details>
+|                     LinkedIn                     |                    GitHub                    |                    GitLab                    |
+| :----------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
+| ![QR LinkedIn](./img/qrcode/qrcode-linkedin.png) | ![QR GitHub](./img/qrcode/qrcode-github.png) | ![QR GitLab](./img/qrcode/qrcode-gitlab.png) |
 
 ---
 
 ## 📈 Statistiques GitHub
 
-<p align="center">
-	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicolasLoppin66&show_icons=true&theme=react&count_private=true"/>
-	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasLoppin66&layout=compact&theme=react&hide_langs_below=8&count_private=true"/>
-</p>
+## 📈 Statistiques GitHub
+
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NicolasLoppin66&show_icons=true&theme=react&count_private=true)
+![Langages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasLoppin66&layout=compact&theme=react&hide_langs_below=8&count_private=true)
 
 ---
 
@@ -68,7 +50,7 @@
 
 --- -->
 
-## � Compétences & Technologies
+## 🛠️ Compétences & Technologies
 
 ---
 
