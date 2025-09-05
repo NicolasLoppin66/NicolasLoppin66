@@ -40,8 +40,6 @@ J'aime partager et transmettre mes connaissances.</p>
 
 ## 📈 Statistiques GitHub
 
-## 📈 Statistiques GitHub
-
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NicolasLoppin66&show_icons=true&theme=react&count_private=true)
 ![Langages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasLoppin66&layout=compact&theme=react&hide_langs_below=8&count_private=true)
 
