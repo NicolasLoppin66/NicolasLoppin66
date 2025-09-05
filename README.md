@@ -12,7 +12,8 @@
 </p>
 
 <p align="center">
-	<b>Développeur web passionné</b> ![Age](https://img.shields.io/badge/Âge-24_ans-red?style=for-the-badge) <br>
+	<b>Développeur web passionné</b> 
+    ![Age](https://img.shields.io/badge/Âge-24_ans-red?style=for-the-badge) <br>
 	Toujours en apprentissage, à la recherche d'opportunités dans le domaine du développement web.<br>
 	<b>Motivé, déterminé et curieux !</b> <br>
 	J'aime partager et transmettre mes connaissances.
