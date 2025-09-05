@@ -1,0 +1,44 @@
+# Files and directories to ignore
+test.md
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Images output
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Misc
+*.swp
+*.swo
+
+# GitHub Actions
+!/.github/
+
+# Ignore everything in img except qrcode
+img/*
+!img/qrcode/
+!img/qrcode/qrcode-github.png
+!img/qrcode/qrcode-gitlab.png
+!img/qrcode/qrcode-linkedin.png
+
