@@ -1,31 +1,62 @@
-# Bienvenue sur mon Profils
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=F70000&height=120&section=header&text=Nicolas%20LOPPIN&fontSize=40&fontAlign=50&fontColor=ffffff"/>
+</p>
 
-Je m'appel Nicolas LOPPIN, j'ai 24 ans et je continue a me forme au métier du développement web, tous en continuant mais recherche d'emplois dans le domaine.
-Motivé, déterminé, et passionné par ce vaste métier !
-Je reste en constante recherche de nouvelle chose a apprendre et a découvir.
+# 👋 Bienvenue sur mon profil GitHub !
 
-Le partage et la transmission sont pour moi deux choses essentielles dans l'approche des différent métier qui peut me faire apprendre.
+<details open>
+<summary><b>À propos de moi</b></summary>
 
 <p align="center">
 <img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=750&color=F70000&center=true&vCenter=true&width=435&lines=%E2%AD%90+Dev+Junior+%E2%AD%90;%E2%AD%90%E2%AD%90+Developpeur+Front-End+%E2%AD%90%E2%AD%90;%E2%AD%90%E2%AD%90%E2%AD%90+Developpeur+Back-End+%E2%AD%90%E2%AD%90%E2%AD%90;%F0%9F%94%A5%F0%9F%94%A5+Developpeur+Full-stack+%F0%9F%94%A5%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
-<h2> 👋 Hi there 👋 </h2>
+<p align="center">
+	<b>Développeur web passionné, 24 ans</b> <br>
+	Toujours en apprentissage, à la recherche d'opportunités dans le domaine du développement web.<br>
+	<b>Motivé, déterminé et curieux !</b> <br>
+	J'aime partager et transmettre mes connaissances.
+</p>
+</details>
 
 ---
 
-[![Gmail](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335 "Mail professionnel : loppin.n66@gmail.com")](mailto:loppin.n66@gmail.com)
-![Discord](https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=5865f2 "TrinoxGFX")
+<p align="center">
+<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=750&color=F70000&center=true&vCenter=true&width=435&lines=%E2%AD%90+Dev+Junior+%E2%AD%90;%E2%AD%90%E2%AD%90+Developpeur+Front-End+%E2%AD%90%E2%AD%90;%E2%AD%90%E2%AD%90%E2%AD%90+Developpeur+Back-End+%E2%AD%90%E2%AD%90%E2%AD%90;%F0%9F%94%A5%F0%9F%94%A5+Developpeur+Full-stack+%F0%9F%94%A5%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2 "Nicolas LOPPIN")](https://www.linkedin.com/in/nicolasloppin/) | [![Github](https://img.shields.io/badge/Github-informational?style=for-the-badge&logo=github&logoColor=white&color=181717 "NicolasLoppin66")](https://github.com/NicolasLoppin66) | [![Gitlab](https://img.shields.io/badge/GitLab-informational?style=for-the-badge&logo=gitlab&logoColor=white&color=FC6D26 "NicolasL66")](https://gitlab.com/NicolasL66) |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                             ![](./img/qrcode/qrcode-linkedin.png)                                                                              |                                                                        ![](./img/qrcode/qrcode-github.png)                                                                        |                                                                   ![](./img/qrcode/qrcode-gitlab.png)                                                                   |
+## � Contact & Réseaux
+
+<p align="center">
+	<a href="mailto:loppin.n66@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+	<a href="https://www.linkedin.com/in/nicolasloppin/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+	<a href="https://github.com/NicolasLoppin66"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+	<a href="https://gitlab.com/NicolasL66"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+	<img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" title="TrinoxGFX"/>
+</p>
+
+<details>
+<summary><b>QR Codes de mes réseaux</b></summary>
+
+<table>
+	<tr>
+		<td align="center"><b>LinkedIn</b><br><img src="./img/qrcode/qrcode-linkedin.png" width="120"/></td>
+		<td align="center"><b>GitHub</b><br><img src="./img/qrcode/qrcode-github.png" width="120"/></td>
+		<td align="center"><b>GitLab</b><br><img src="./img/qrcode/qrcode-gitlab.png" width="120"/></td>
+	</tr>
+</table>
+</details>
 
 ---
 
-|                                                       📈 Statistiques Github                                                       |                                                                                                                                                                 |
-| :--------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![](https://github-readme-stats-sigma-five.vercel.app/api?username=NicolasLoppin66&show_icons=true&theme=react&count_private=true) | ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasLoppin66&layout=compact&theme=react&hide_langs_below=8&count_private=true) |
+## 📈 Statistiques GitHub
+
+<p align="center">
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicolasLoppin66&show_icons=true&theme=react&count_private=true"/>
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasLoppin66&layout=compact&theme=react&hide_langs_below=8&count_private=true"/>
+</p>
+
+---
 
 <!-- ---
 
@@ -36,13 +67,11 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 
 --- -->
 
-<h1>👉 Compétences</h1>
-
-## 🛠 Outils & Technologies
+## � Compétences & Technologies
 
 ---
 
-### **Language**
+### Langages
 
 - Style
 
@@ -63,7 +92,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
 
-### **Framework**
+### Frameworks
 
 ![Symfony](https://img.shields.io/badge/Symfony-informational?style=for-the-badge&logo=symfony&logoColor=white&color=000000)
 ![React](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
@@ -74,71 +103,71 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![Expo](https://img.shields.io/badge/Expo-informational?style=for-the-badge&logo=expo&logoColor=white&color=000020)
 ![Flask](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=000000)
 
-### **Module Style**
+### Modules de style
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=7952B3)
 
-### **CMS**
+### CMS
 
 ![WordPress](https://img.shields.io/badge/WordPress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=21759B)
 
-### **Container**
+### Conteneurs
 
 ![Docker](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
 ![VMWare](https://img.shields.io/badge/VMWare-informational?style=for-the-badge&logo=vmware&logoColor=white&color=607078)
 
-### **Env Developpement**
+### Environnements de développement
 
 ![Laragon](https://img.shields.io/badge/Laragon-informational?style=for-the-badge&logo=laragon&logoColor=white&color=0E83CD)
 ![Node.js](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=339933)
 
 ---
 
-## Outils
+## 🧰 Outils
 
-### **Comms**
+### Communication
 
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-informational?style=for-the-badge&logo=microsoftteams&logoColor=white&color=6264A7)
 ![Discord](https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=5865f2)
 
-### **OS**
+### Systèmes d'exploitation
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)
 ![Linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FCC624)
 ![W11](https://img.shields.io/badge/Window_11-informational?style=for-the-badge&logo=windows11&logoColor=white&color=0078D6)
 ![IOS](https://img.shields.io/badge/Android-informational?style=for-the-badge&logo=android&logoColor=white&color=3ddc84)
 
-### **Shell**
+### Shells
 
 ![Git Bash](https://img.shields.io/badge/Git_Bash-informational?style=for-the-badge&logo=git&logoColor=white&color=f05032)
 ![PowerShell](https://img.shields.io/badge/PowerShell-informational?style=for-the-badge&logo=powershell&logoColor=white&color=5391fe)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=313131)
 
-### **IDE**
+### IDE
 
 ![VS](https://img.shields.io/badge/Visual_Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=5C2D91)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007acc)
 ![NOTEPAD++](https://img.shields.io/badge/Notepad++-informational?style=for-the-badge&logo=notepadplusplus&logoColor=black&color=90E59A)
 
-### **Package Manager**
+### Gestionnaires de paquets
 
 ![NPM](https://img.shields.io/badge/Npm-informational?style=for-the-badge&logo=npm&logoColor=white&color=cb3837)
 ![YARN](https://img.shields.io/badge/Yarn-informational?style=for-the-badge&logo=yarn&logoColor=white&color=2C8EBB)
 ![Webpack](https://img.shields.io/badge/Weback-informational?style=for-the-badge&logo=webpack&logoColor=white&color=8DD6F9)
 
-### **UX / UI**
+### UX / UI
 
 ![FIGMA](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E)
 
-### **Project management tools**
+### Gestion de projet
 
 ![TRELLO](https://img.shields.io/badge/Trello-informational?style=for-the-badge&logo=trello&logoColor=white&color=0052CC)
 ![EVERNOTE](https://img.shields.io/badge/Evernote-informational?style=for-the-badge&logo=evernote&logoColor=white&color=#00A82D)
 
 ---
 
-## LOISIRS
+## 🎯 Loisirs
 
 ![Learning](https://img.shields.io/badge/Passion-Apprentissage-informational?style=for-the-badge&logo=learning&logoColor=000000&color=ff0000)
 ![Coding](https://img.shields.io/badge/Passion-Programmation-informational?style=for-the-badge&logo=coding&logoColor=000000&color=ff7f00)
@@ -147,7 +176,7 @@ Le partage et la transmission sont pour moi deux choses essentielles dans l'appr
 ![Football_Américain](https://img.shields.io/badge/SPORT-Football_Américain_NFL-informational?style=for-the-badge&logo=nfl&logoColor=000000&color=FFFF00)
 ![F1](https://img.shields.io/badge/SPORT-Formule_1-informational?style=for-the-badge&logo=f1&logoColor=white&color=E10600)
 
-### LANGUES
+### Langues
 
 | Français | Anglais | Japonais |
 | :------: | :-----: | :------: |
