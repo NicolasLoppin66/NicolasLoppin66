@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<b>Développeur web passionné</b> 
+	<b>Développeur web passionné</b> <br>
     ![Age](https://img.shields.io/badge/Âge-24_ans-red?style=for-the-badge) <br>
 	Toujours en apprentissage, à la recherche d'opportunités dans le domaine du développement web.<br>
 	<b>Motivé, déterminé et curieux !</b> <br>
