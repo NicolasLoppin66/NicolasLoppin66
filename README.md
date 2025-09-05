@@ -18,7 +18,7 @@ J'aime partager et transmettre mes connaissances.</p>
 </details>
 </div>
 
-![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=750&color=F70000&center=true&vCenter=true&width=435&lines=%E2%AD%90+Dev+Junior+%E2%AD%90;%E2%AD%90%E2%AD%90+Developpeur+Front-End+%E2%AD%90%E2%AD%90;%E2%AD%90%E2%AD%90%E2%AD%90+Developpeur+Back-End+%E2%AD%90%E2%AD%90%E2%AD%90;%F0%9F%94%A5%F0%9F%94%A5+Developpeur+Full-stack+%F0%9F%94%A5%F0%9F%94%A5)
+<!-- ![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=750&color=F70000&center=true&vCenter=true&width=435&lines=%E2%AD%90+Dev+Junior+%E2%AD%90;%E2%AD%90%E2%AD%90+Developpeur+Front-End+%E2%AD%90%E2%AD%90;%E2%AD%90%E2%AD%90%E2%AD%90+Developpeur+Back-End+%E2%AD%90%E2%AD%90%E2%AD%90;%F0%9F%94%A5%F0%9F%94%A5+Developpeur+Full-stack+%F0%9F%94%A5%F0%9F%94%A5) -->
 
 ## 📱 Contact & Réseaux
 
