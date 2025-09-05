@@ -2,29 +2,33 @@
 
 # 👋 Bienvenue sur mon profil GitHub !
 
+<div align="center">
 <details open>
-<p>
 <summary><b>À propos de moi</b></summary>
 
-</p>
+<br>
+<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=750&color=F70000&center=true&vCenter=true&width=435&lines=%E2%AD%90+Dev+Junior+%E2%AD%90;%E2%AD%90%E2%AD%90+Developpeur+Front-End+%E2%AD%90%E2%AD%90;%E2%AD%90%E2%AD%90%E2%AD%90+Developpeur+Back-End+%E2%AD%90%E2%AD%90%E2%AD%90;%F0%9F%94%A5%F0%9F%94%A5+Developpeur+Full-stack+%F0%9F%94%A5%F0%9F%94%A5" alt="Typing SVG" />
 
-![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=750&color=F70000&center=true&vCenter=true&width=435&lines=%E2%AD%90+Dev+Junior+%E2%AD%90;%E2%AD%90%E2%AD%90+Developpeur+Front-End+%E2%AD%90%E2%AD%90;%E2%AD%90%E2%AD%90%E2%AD%90+Developpeur+Back-End+%E2%AD%90%E2%AD%90%E2%AD%90;%F0%9F%94%A5%F0%9F%94%A5+Developpeur+Full-stack+%F0%9F%94%A5%F0%9F%94%A5)
+<h3>Développeur web passionné</h3>
+<img src="https://img.shields.io/badge/Âge-24_ans-red?style=for-the-badge" alt="Age" />
 
-**Développeur web passionné**  
-![Age](https://img.shields.io/badge/Âge-24_ans-red?style=for-the-badge)
-
-Toujours en apprentissage, à la recherche d'opportunités dans le domaine du développement web.  
-**Motivé, déterminé et curieux !**  
-J'aime partager et transmettre mes connaissances.
-
+<p>Toujours en apprentissage, à la recherche d'opportunités dans le domaine du développement web.<br>
+<b>Motivé, déterminé et curieux !</b><br>
+J'aime partager et transmettre mes connaissances.</p>
 </details>
+</div>
 
 ![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=750&color=F70000&center=true&vCenter=true&width=435&lines=%E2%AD%90+Dev+Junior+%E2%AD%90;%E2%AD%90%E2%AD%90+Developpeur+Front-End+%E2%AD%90%E2%AD%90;%E2%AD%90%E2%AD%90%E2%AD%90+Developpeur+Back-End+%E2%AD%90%E2%AD%90%E2%AD%90;%F0%9F%94%A5%F0%9F%94%A5+Developpeur+Full-stack+%F0%9F%94%A5%F0%9F%94%A5)
 
 ## 📱 Contact & Réseaux
 
-| [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loppin.n66@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasloppin/) | [![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasLoppin66) |
-| [![Gitlab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/NicolasL66) | ![Discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white "TrinoxGFX") |
+<div align="center">
+	<a href="mailto:loppin.n66@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/nicolasloppin/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/NicolasLoppin66"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://gitlab.com/NicolasL66"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
+	<img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" title="TrinoxGFX"/>
+</div>
 
 ### QR Codes de mes réseaux
 
