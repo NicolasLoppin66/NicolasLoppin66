@@ -10,7 +10,7 @@
 <img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=750&color=F70000&center=true&vCenter=true&width=435&lines=%E2%AD%90+Dev+Junior+%E2%AD%90;%E2%AD%90%E2%AD%90+Developpeur+Front-End+%E2%AD%90%E2%AD%90;%E2%AD%90%E2%AD%90%E2%AD%90+Developpeur+Back-End+%E2%AD%90%E2%AD%90%E2%AD%90;%F0%9F%94%A5%F0%9F%94%A5+Developpeur+Full-stack+%F0%9F%94%A5%F0%9F%94%A5" alt="Typing SVG" />
 
 <h3>Développeur web passionné</h3>
-<img src="https://img.shields.io/badge/Âge-24_ans-red?style=for-the-badge" alt="Age" />
+<img src="https://img.shields.io/badge/Âge-25_ans-red?style=for-the-badge" alt="Age" />
 
 <p>Toujours en apprentissage, à la recherche d'opportunités dans le domaine du développement web.<br>
 <b>Motivé, déterminé et curieux !</b><br>
